@@ -181,20 +181,26 @@ export async function collectFromSources(
   let sites: CollectedSite[] = [];
 
   for (const source of sources) {
-    const response = await fetcher(source.url, {
-      headers: {
-        "user-agent": userAgent,
-        "accept": "text/html,application/xhtml+xml"
-      },
-      redirect: "follow"
-    });
+    try {
+      const response = await fetcher(source.url, {
+        headers: {
+          "user-agent": userAgent,
+          "accept": "text/html,application/xhtml+xml",
+          "accept-language": "ja,en-US;q=0.8,en;q=0.6"
+        },
+        redirect: "follow"
+      });
 
-    if (!response.ok) {
-      throw new Error(`Failed to fetch ${source.id}: ${response.status}`);
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      const html = await response.text();
+      sites = mergeSites(source.id, extractSourceUrls(source, html), sites, now, historical);
+    } catch (error) {
+      console.warn(`Skipping ${source.id}: ${error instanceof Error ? error.message : String(error)}`);
+      sites = retainHistoricalSource(source.id, historical, sites);
     }
-
-    const html = await response.text();
-    sites = mergeSites(source.id, extractSourceUrls(source, html), sites, now, historical);
   }
 
   return sites;
@@ -247,6 +253,32 @@ function extractHatenaFaviconUrls(html: string, baseUrl: string): string[] {
 function extractTableALinks(html: string, baseUrl: string): string[] {
   const table = html.match(/<table\b[^>]*class=(["'])[^"']*\btable-a\b[^"']*\1[^>]*>[\s\S]*?<\/table>/iu)?.[0] ?? "";
   return extractUrls(table, baseUrl);
+}
+
+function retainHistoricalSource(sourceId: string, historical: CollectedSite[], current: CollectedSite[]): CollectedSite[] {
+  const byHost = new Map(current.map((site) => [site.host, { ...site, sources: [...site.sources] }]));
+
+  for (const site of historical) {
+    if (!site.sources.includes(sourceId) || !isCandidateMatomeUrl(site.url)) {
+      continue;
+    }
+
+    const existing = byHost.get(site.host);
+    if (existing) {
+      if (!existing.sources.includes(sourceId)) {
+        existing.sources.push(sourceId);
+        existing.sources.sort();
+      }
+      continue;
+    }
+
+    byHost.set(site.host, {
+      ...site,
+      sources: [sourceId]
+    });
+  }
+
+  return [...byHost.values()].sort((a, b) => a.host.localeCompare(b.host));
 }
 
 function renderUrls(sites: CollectedSite[]): string {

@@ -3,6 +3,7 @@ import test from "node:test";
 
 import {
   buildLists,
+  collectFromSources,
   extractUrls,
   extractSourceUrls,
   isCandidateMatomeUrl,
@@ -171,4 +172,49 @@ test("buildLists renders each target format", () => {
   assert.match(result.files["adguard.txt"], /\|\|example\.com\^/);
   assert.match(result.files["ublacklist.txt"], /\*:\/\//);
   assert.match(result.files["sites.json"], /"host": "example.com"/);
+});
+
+test("collectFromSources retains historical source entries when a source fetch fails", async () => {
+  const sites = await collectFromSources(
+    [
+      {
+        id: "source-a",
+        url: "https://source-a.example/",
+        strategy: "table-a-links"
+      },
+      {
+        id: "source-b",
+        url: "https://source-b.example/",
+        strategy: "table-a-links"
+      }
+    ],
+    async (url) => {
+      if (url === "https://source-a.example/") {
+        return new Response("blocked", { status: 403 });
+      }
+
+      return new Response(`
+        <table class="table-a">
+          <tr><th><a href="https://fresh.example.com/">Fresh</a></th></tr>
+        </table>
+      `);
+    },
+    [
+      {
+        url: "https://kept.example.com/",
+        host: "kept.example.com",
+        firstSeenAt: "2026-01-01T00:00:00.000Z",
+        sources: ["source-a"]
+      }
+    ],
+    "2026-06-14T00:00:00.000Z"
+  );
+
+  assert.deepEqual(
+    sites.map((site) => [site.host, site.sources]),
+    [
+      ["fresh.example.com", ["source-b"]],
+      ["kept.example.com", ["source-a"]]
+    ]
+  );
 });
