@@ -1,0 +1,21 @@
+{
+  "name": "matomesaito",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Collect 5ch/matome blog URLs from antenna sites and publish blocklists for uBlock Origin, AdGuard, and uBlacklist.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --outDir dist --noEmit false",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "seed": "npm run build && node scripts/seed-kv.mjs",
+    "pretest": "tsc --outDir dist-test --noEmit false",
+    "test": "node --test test/*.test.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260612.0",
+    "typescript": "^5.8.3",
+    "wrangler": "^4.100.0"
+  }
+}
