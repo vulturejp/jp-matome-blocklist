@@ -1,46 +1,34 @@
 {
-  "generatedAt": "2026-06-14T10:07:41.065Z",
+  "generatedAt": "2026-06-14T10:12:56.631Z",
   "sites": [
-    {
-      "url": "https://1000mg.jp/",
-      "host": "1000mg.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
-      ]
-    },
-    {
-      "url": "http://1p0rn.com/",
-      "host": "1p0rn.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
-      ]
-    },
     {
       "url": "http://2ch-matomenews.com/",
       "host": "2ch-matomenews.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
-      ]
-    },
-    {
-      "url": "http://2chcopipe.com/",
-      "host": "2chcopipe.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
+      "url": "http://2chcopipe.com/",
+      "host": "2chcopipe.com",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
+      "sources": [
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "https://2logch.com/",
+      "host": "2logch.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
       "url": "http://2monkeys.jp/",
       "host": "2monkeys.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -48,11 +36,9 @@
     {
       "url": "https://7-24blog.com/",
       "host": "7-24blog.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "2ch-c-sites"
       ]
     },
     {
@@ -61,17 +47,15 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://abroadch.com/",
-      "host": "abroadch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://agemasen.com/",
+      "host": "agemasen.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
@@ -79,29 +63,16 @@
       "host": "akankore.doorblog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://akb48matomemory.com/",
       "host": "akb48matomemory.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
-      ]
-    },
-    {
-      "url": "http://akb48mt.com/",
-      "host": "akb48mt.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "2ch-c-sites"
       ]
     },
     {
@@ -109,7 +80,8 @@
       "host": "akb48rompen.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -117,34 +89,22 @@
       "host": "alfalfalfa.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://all-nationz.com/",
       "host": "all-nationz.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
-      ]
-    },
-    {
-      "url": "https://anacap.doorblog.jp/",
-      "host": "anacap.doorblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://anichil.com/",
       "host": "anichil.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -152,7 +112,7 @@
     {
       "url": "https://anicobin.ldblog.jp/",
       "host": "anicobin.ldblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -160,39 +120,57 @@
     {
       "url": "http://anige-sokuhouvip.com/",
       "host": "anige-sokuhouvip.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
-        "2ch-c-sites",
-        "owata"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "http://anihatsu.com/",
       "host": "anihatsu.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://anitubu.com/",
-      "host": "anitubu.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://animanch.com/",
+      "host": "animanch.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "http://aramame.net/",
-      "host": "aramame.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://animesoku.com/",
+      "host": "animesoku.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://aobatushin-kankore.doorblog.jp/",
+      "host": "aobatushin-kankore.doorblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://apexlegends-leaksnews.com/",
+      "host": "apexlegends-leaksnews.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://apexlegends-news.com/",
+      "host": "apexlegends-news.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -200,46 +178,56 @@
       "host": "arceus-sokuho.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://ayacnews2nd.com/",
-      "host": "ayacnews2nd.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://arknights-matome.blog.jp/",
+      "host": "arknights-matome.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://ayamevip.com/",
-      "host": "ayamevip.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://arknights.gamers-labo.com/",
+      "host": "arknights.gamers-labo.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://asukyann.blog.jp/",
+      "host": "asukyann.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://azurlane.doorblog.jp/",
+      "host": "azurlane.doorblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://babymetal-matome.blog.jp/",
+      "host": "babymetal-matome.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://baiku-sokuho.info/",
       "host": "baiku-sokuho.info",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
-      ]
-    },
-    {
-      "url": "https://bakufu.jp/",
-      "host": "bakufu.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "2ch-c-sites"
       ]
     },
     {
@@ -247,8 +235,8 @@
       "host": "bandai11.blog.fc2.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -256,8 +244,8 @@
       "host": "basketballbbs.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -265,15 +253,48 @@
       "host": "battlefield-soku.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://baynews.blog.jp/",
+      "host": "baynews.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://bb.doorblog.jp/",
+      "host": "bb.doorblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://beasoku.com/",
       "host": "beasoku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "http://bestbodynews.blog.jp/",
+      "host": "bestbodynews.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://biketouringnetamatome.blog.jp/",
+      "host": "biketouringnetamatome.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -282,9 +303,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
@@ -293,8 +312,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
@@ -302,25 +320,30 @@
       "host": "blog.domesoccer.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "http://blog.esuteru.com/",
-      "host": "blog.esuteru.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://blue-archive.doorblog.jp/",
+      "host": "blue-archive.doorblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://bluearchive.blog.jp/",
+      "host": "bluearchive.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://blueprosoku.com/",
       "host": "blueprosoku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -328,21 +351,33 @@
     {
       "url": "https://bmaysu.blog.jp/",
       "host": "bmaysu.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "http://brow2ing.com/",
       "host": "brow2ing.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "http://buffaloes-matome.com/",
+      "host": "buffaloes-matome.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://buruaka-matome.doorblog.jp/",
+      "host": "buruaka-matome.doorblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -351,20 +386,15 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://calciomatome.net/",
       "host": "calciomatome.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
@@ -373,24 +403,15 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://cdn.plime.com/",
-      "host": "cdn.plime.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://carrot.dreamlog.jp/",
+      "host": "carrot.dreamlog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "owata"
-      ]
-    },
-    {
-      "url": "https://chaos-giga.com/",
-      "host": "chaos-giga.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "newmatoan-sites"
       ]
     },
     {
@@ -399,60 +420,37 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "owata"
-      ]
-    },
-    {
-      "url": "https://chigesoku3.doorblog.jp/",
-      "host": "chigesoku3.doorblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://chomangasokuho.blog.jp/",
       "host": "chomangasokuho.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://cowboy.blog.jp/",
-      "host": "cowboy.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
       ]
     },
     {
       "url": "https://crx7601.com/",
       "host": "crx7601.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://cysoku.com/",
+      "url": "http://cysoku.com/",
       "host": "cysoku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121",
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://danseisama.com/",
       "host": "danseisama.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -462,47 +460,48 @@
       "host": "dark-soku.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://de-baystars.jp/",
       "host": "de-baystars.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "https://df-browser-games.com/",
+      "host": "df-browser-games.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://digital-thread.com/",
       "host": "digital-thread.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91",
-        "owata"
-      ]
-    },
-    {
-      "url": "https://dimikai.com/",
-      "host": "dimikai.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://dng65.com/",
       "host": "dng65.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "https://dodongeinou.com/",
+      "host": "dodongeinou.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -510,8 +509,8 @@
       "host": "dragonquestwalk.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -519,60 +518,56 @@
       "host": "duellinks.doorblog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://ebitsu.net/",
       "host": "ebitsu.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://efire-matome.com/",
-      "host": "efire-matome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://ekuzodeerhand.blog.jp/",
+      "host": "ekuzodeerhand.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-211"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://eldenring.game-chan.net/",
+      "host": "eldenring.game-chan.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://eldenring.gamers-labo.com/",
+      "host": "eldenring.gamers-labo.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://elephant.2chblog.jp/",
       "host": "elephant.2chblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61",
-        "owata"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://elog-ch.com/",
-      "host": "elog-ch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://estalucia.com/",
+      "host": "estalucia.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs"
-      ]
-    },
-    {
-      "url": "http://eromazofu.com/",
-      "host": "eromazofu.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
-      ]
-    },
-    {
-      "url": "https://ertk.net/",
-      "host": "ertk.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "newmatoan-sites"
       ]
     },
     {
@@ -580,19 +575,16 @@
       "host": "everydayissunday.livedoor.blog",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://f1jouhou2.com/",
       "host": "f1jouhou2.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
       ]
     },
     {
@@ -600,8 +592,16 @@
       "host": "fashion-news.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://fate-go-guidebook.blog.jp/",
+      "host": "fate-go-guidebook.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -609,14 +609,14 @@
       "host": "fatego-matome.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://fesoku.net/",
       "host": "fesoku.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -626,19 +626,32 @@
       "host": "ff14hikasensokuhou.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://fighter.gamers-labo.com/",
-      "host": "fighter.gamers-labo.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://ff14isgot.livedoor.blog/",
+      "host": "ff14isgot.livedoor.blog",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-211"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://fgochaldeas.com/",
+      "host": "fgochaldeas.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://fgonovum.com/",
+      "host": "fgonovum.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -647,19 +660,15 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://figsoku.net/",
       "host": "figsoku.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
       ]
     },
     {
@@ -668,35 +677,23 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://football-2ch.com/",
       "host": "football-2ch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://footballnet.2chblog.jp/",
+      "url": "http://footballnet.2chblog.jp/",
       "host": "footballnet.2chblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
-      ]
-    },
-    {
-      "url": "https://fresta-memories.com/",
-      "host": "fresta-memories.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
@@ -704,15 +701,22 @@
       "host": "fx2ch.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://g-soku.blog.jp/",
+      "host": "g-soku.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://gabiyori.com/",
       "host": "gabiyori.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -722,9 +726,8 @@
       "host": "gadget2ch.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
@@ -733,17 +736,15 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "http://galapagosjapan.jp/",
-      "host": "galapagosjapan.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://gameinn.jp/",
+      "host": "gameinn.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
@@ -751,16 +752,48 @@
       "host": "gamejksokuhou.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://gameleaks.org/",
-      "host": "gameleaks.org",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://gameo.jp/",
+      "host": "gameo.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://gametokka.com/",
+      "host": "gametokka.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://ganndamu.blog.jp/",
+      "host": "ganndamu.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://garyu-kaisetsu.com/",
+      "host": "garyu-kaisetsu.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://gbfsisters.com/",
+      "host": "gbfsisters.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -768,36 +801,48 @@
       "host": "ge-soku.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://geektushin.com/",
+      "host": "geektushin.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://geinomatome.com/",
       "host": "geinomatome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "http://geinoukame.com/",
-      "host": "geinoukame.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://genshin-matome.blog.jp/",
+      "host": "genshin-matome.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "http://gekiyaku.com/",
-      "host": "gekiyaku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://genshin-matomech.umadacchi.net/",
+      "host": "genshin-matomech.umadacchi.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://gensin.blog.jp/",
+      "host": "gensin.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -805,54 +850,40 @@
       "host": "gfoodd.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://giants-news-sokuhou.com/",
       "host": "giants-news-sokuhou.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "https://giants-news.com/",
+      "host": "giants-news.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://girlsreport.net/",
       "host": "girlsreport.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
-      ]
-    },
-    {
-      "url": "https://girlsvip-matome.com/",
-      "host": "girlsvip-matome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://gossip-i.com/",
-      "host": "gossip-i.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://girlsvip-matome.com/",
+      "host": "girlsvip-matome.com",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
-      ]
-    },
-    {
-      "url": "http://gossip1.net/",
-      "host": "gossip1.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "2ch-c-sites"
       ]
     },
     {
@@ -861,16 +892,22 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://gsch.tfmwish.com/",
+      "host": "gsch.tfmwish.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://gundam-futab.info/",
       "host": "gundam-futab.info",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
       ]
     },
@@ -879,19 +916,32 @@
       "host": "gundamlog.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://gunpla-news24.info/",
       "host": "gunpla-news24.info",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "http://h-pon.doorblog.jp/",
+      "host": "h-pon.doorblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://hamusoku.com/",
+      "host": "hamusoku.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -900,8 +950,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
       ]
     },
     {
@@ -909,23 +958,14 @@
       "host": "haronbouchannel.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://harowarudo.com/",
-      "host": "harowarudo.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://hatarakuhijoshiki.livedoor.blog/",
       "host": "hatarakuhijoshiki.livedoor.blog",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -933,32 +973,25 @@
     {
       "url": "https://hattatu-matome.ldblog.jp/",
       "host": "hattatu-matome.ldblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "https://heaven-burns-red.gamers-labo.com/",
+      "host": "heaven-burns-red.gamers-labo.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://henshin-hero.com/",
       "host": "henshin-hero.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
-      ]
-    },
-    {
-      "url": "https://hheaven.jp/",
-      "host": "hheaven.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "2ch-c-sites"
       ]
     },
     {
@@ -966,8 +999,8 @@
       "host": "highfashionmens.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -976,7 +1009,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
@@ -984,22 +1017,14 @@
       "host": "hiraganakeyaki.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "http://hnalady.com/",
-      "host": "hnalady.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://holoch.blog.jp/",
       "host": "holoch.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -1007,11 +1032,9 @@
     {
       "url": "https://hololivenews.jp/",
       "host": "hololivenews.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "2ch-c-sites"
       ]
     },
     {
@@ -1020,55 +1043,31 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://honmotakeshi.com/",
-      "host": "honmotakeshi.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://i2chmeijin.blog.fc2.com/",
+      "host": "i2chmeijin.blog.fc2.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
-      ]
-    },
-    {
-      "url": "https://hosyusokuhou.jp/",
-      "host": "hosyusokuhou.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://i2chmeijin.com/",
       "host": "i2chmeijin.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
-      ]
-    },
-    {
-      "url": "http://idol-blog.com/",
-      "host": "idol-blog.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://ikarishintou.com/",
       "host": "ikarishintou.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "2ch-c-sites"
       ]
     },
     {
@@ -1077,57 +1076,47 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://inazumanews2.com/",
       "host": "inazumanews2.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://incident-wo.com/",
-      "host": "incident-wo.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://inutomo11.com/",
+      "host": "inutomo11.com",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://inutomo11.com/",
-      "host": "inutomo11.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://iroironetnews.blog.jp/",
+      "host": "iroironetnews.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://itainews.com/",
       "host": "itainews.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://itaishinja.com/",
       "host": "itaishinja.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "2ch-c-sites"
       ]
     },
     {
@@ -1135,26 +1124,24 @@
       "host": "jin115.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://jinniro.blog.fc2.com/",
+      "host": "jinniro.blog.fc2.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://jisaka.com/",
       "host": "jisaka.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151",
-        "owata"
-      ]
-    },
-    {
-      "url": "https://jishin-yogen.com/",
-      "host": "jishin-yogen.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
       ]
     },
     {
@@ -1162,27 +1149,16 @@
       "host": "joker004.blog.fc2.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://js.ad-stir.com/",
-      "host": "js.ad-stir.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://jra.doorblog.jp/",
+      "host": "jra.doorblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1",
-        "matomeantena-rank-121",
-        "matomeantena-rank-151",
-        "matomeantena-rank-181",
-        "matomeantena-rank-211",
-        "matomeantena-rank-31",
-        "matomeantena-rank-61",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
@@ -1191,61 +1167,39 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://jumpsokuhou.com/",
       "host": "jumpsokuhou.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://jyoseisama.com/",
       "host": "jyoseisama.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://kaigainoomaera.com/",
-      "host": "kaigainoomaera.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://kabumatome.doorblog.jp/",
+      "host": "kabumatome.doorblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://kaigaiwelcome.com/",
-      "host": "kaigaiwelcome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
-      ]
-    },
-    {
-      "url": "https://kaisupo.com/",
-      "host": "kaisupo.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
-      ]
-    },
-    {
-      "url": "https://kamenrider2.net/",
+      "url": "http://kamenrider2.net/",
       "host": "kamenrider2.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "2ch-c"
+        "newmatoan-sites"
       ]
     },
     {
@@ -1253,26 +1207,30 @@
       "host": "kancolle.doorblog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://kandatasokuho.blog.fc2.com/",
+      "host": "kandatasokuho.blog.fc2.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://kandatasokuho.com/",
       "host": "kandatasokuho.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://kankeinai.blog.jp/",
       "host": "kankeinai.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -1280,17 +1238,24 @@
     {
       "url": "https://karukantimes.com/",
       "host": "karukantimes.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
+      "url": "https://kasegeru.blog.jp/",
+      "host": "kasegeru.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
       "url": "https://kasemato.net/",
       "host": "kasemato.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
       ]
     },
@@ -1299,7 +1264,8 @@
       "host": "kazokuchannel.doorblog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -1307,24 +1273,48 @@
       "host": "keibaromantei.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://keizai4567.blog.jp/",
+      "host": "keizai4567.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://kemochan.com/",
       "host": "kemochan.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://keyakizaka1.blog.jp/",
-      "host": "keyakizaka1.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://kenkou-tsuushin.com/",
+      "host": "kenkou-tsuushin.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://keokeoblog.net/",
+      "host": "keokeoblog.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://keyakizaka46ch.jp/",
+      "host": "keyakizaka46ch.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -1332,25 +1322,40 @@
       "host": "keyakizaka46matomemory.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://kh-pokemon-mc.com/",
+      "host": "kh-pokemon-mc.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://kickoffjmaruwakari.blog.jp/",
+      "host": "kickoffjmaruwakari.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://kidan-m.com/",
       "host": "kidan-m.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://kijoden.com/",
-      "host": "kijoden.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://kijolifehack.com/",
+      "host": "kijolifehack.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
@@ -1359,8 +1364,15 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://kijonotakuhaibin.com/",
+      "host": "kijonotakuhaibin.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -1368,45 +1380,40 @@
       "host": "kijyomatome.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://kimootoko.net/",
-      "host": "kimootoko.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://kimamagamematomemo.blog.jp/",
+      "host": "kimamagamematomemo.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "http://kimsoku.com/",
-      "host": "kimsoku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://kingofdragons.blog.jp/",
+      "host": "kingofdragons.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91",
-        "owata"
-      ]
-    },
-    {
-      "url": "https://kinggonzalez.net/",
-      "host": "kinggonzalez.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://kininaru-geinou-m.blog.jp/",
       "host": "kininaru-geinou-m.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "https://kinmirainews.com/",
+      "host": "kinmirainews.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -1414,16 +1421,8 @@
       "host": "kinsoku.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "http://kisslog2.com/",
-      "host": "kisslog2.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -1432,8 +1431,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
@@ -1441,13 +1439,14 @@
       "host": "kokopyon.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://kokunanmonomousu.com/",
       "host": "kokunanmonomousu.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -1455,50 +1454,41 @@
     {
       "url": "http://konoyubitomare.jp/",
       "host": "konoyubitomare.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://kore-real.info/",
-      "host": "kore-real.info",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://konya-nanitabeyo.blog.jp/",
+      "host": "konya-nanitabeyo.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://kosoch.com/",
       "host": "kosoch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://kousokuvip.com/",
-      "host": "kousokuvip.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://kosodatech.blog133.fc2.com/",
+      "host": "kosodatech.blog133.fc2.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://kowakunotsubo.com/",
       "host": "kowakunotsubo.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "2ch-c-sites"
       ]
     },
     {
@@ -1506,90 +1496,54 @@
       "host": "kurusoku.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://kyarabetsunijiero.net/",
-      "host": "kyarabetsunijiero.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://kyousoku.net/",
       "host": "kyousoku.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://leaked.jp/",
-      "host": "leaked.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://kyuukaiou.ldblog.jp/",
+      "host": "kyuukaiou.ldblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://lions-matome.com/",
       "host": "lions-matome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://livejupiter2.blog.jp/",
       "host": "livejupiter2.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
-      ]
-    },
-    {
-      "url": "https://love-knowledge.com/",
-      "host": "love-knowledge.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-211"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://lovelive-petitsoku.com/",
       "host": "lovelive-petitsoku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
-      ]
-    },
-    {
-      "url": "https://lovelivematocha.com/",
-      "host": "lovelivematocha.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://madodora-matome.com/",
       "host": "madodora-matome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -1597,20 +1551,9 @@
     {
       "url": "https://majikichi.com/",
       "host": "majikichi.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
-      ]
-    },
-    {
-      "url": "https://mania-of-football.com/",
-      "host": "mania-of-football.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "2ch-c-sites"
       ]
     },
     {
@@ -1618,61 +1561,70 @@
       "host": "manpukunews.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://marasoku.info/",
+      "host": "marasoku.info",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://marines-matomesoku.blog.jp/",
+      "host": "marines-matomesoku.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://maru-sensor.com/",
+      "host": "maru-sensor.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://masaki588008.blog.jp/",
+      "host": "masaki588008.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://mashlife.doorblog.jp/",
       "host": "mashlife.doorblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "owata"
-      ]
-    },
-    {
-      "url": "https://maspiai.com/",
-      "host": "maspiai.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
-      ]
-    },
-    {
-      "url": "http://matacoco.com/",
-      "host": "matacoco.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://matome-geinou.net/",
-      "host": "matome-geinou.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://matacoco.com/",
+      "host": "matacoco.com",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://matome-tarou.ldblog.jp/",
       "host": "matome-tarou.ldblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://matomeblade.com/",
       "host": "matomeblade.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -1680,7 +1632,7 @@
     {
       "url": "http://matomecup.com/",
       "host": "matomecup.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -1691,27 +1643,23 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://matomesoku.jp/",
       "host": "matomesoku.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
-      "url": "http://matometanews.com/",
-      "host": "matometanews.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://mega-nikke.com/",
+      "host": "mega-nikke.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1",
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
@@ -1720,25 +1668,31 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "http://mindhack2ch.com/",
-      "host": "mindhack2ch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://mhw.2chblog.jp/",
+      "host": "mhw.2chblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://minkch.com/",
-      "host": "minkch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://mindo.xsrv.jp/",
+      "host": "mindo.xsrv.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://minigob-matome.blog.jp/",
+      "host": "minigob-matome.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -1746,108 +1700,118 @@
       "host": "mirishita.2chblog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://moccosnoon.com/",
-      "host": "moccosnoon.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://mizuki-0121.blog.jp/",
+      "host": "mizuki-0121.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://moeimg.net/",
-      "host": "moeimg.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://mojacurry.jp/",
+      "host": "mojacurry.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://mona-news.com/",
       "host": "mona-news.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "http://monhan-mhw.com/",
+      "host": "monhan-mhw.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://monhan-soku.com/",
       "host": "monhan-soku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "http://monsterhunter-rise.blog.jp/",
+      "host": "monsterhunter-rise.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://morikinoko.com/",
       "host": "morikinoko.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
       ]
     },
     {
       "url": "https://mudasure.com/",
       "host": "mudasure.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
-      ]
-    },
-    {
-      "url": "https://muryou-tanoshimu.com/",
-      "host": "muryou-tanoshimu.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://mutyun.com/",
       "host": "mutyun.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://nagooka.net/",
-      "host": "nagooka.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://mylife.2chblog.jp/",
+      "host": "mylife.2chblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://nandemo-uketori.com/",
+      "host": "nandemo-uketori.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://nanjde.blog.jp/",
+      "host": "nanjde.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://nanjde.com/",
       "host": "nanjde.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://nanjmuseum.com/",
       "host": "nanjmuseum.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -1855,12 +1819,17 @@
     {
       "url": "https://nanjpride.blog.jp/",
       "host": "nanjpride.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "http://nbama.blog.fc2.com/",
+      "host": "nbama.blog.fc2.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -1868,32 +1837,38 @@
       "host": "negisoku.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "http://netamesi.com/",
-      "host": "netamesi.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://neochisokuhou.net/",
+      "host": "neochisokuhou.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://netizen-voice.blog.jp/",
       "host": "netizen-voice.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "http://news.2chblog.jp/",
+      "host": "news.2chblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://news30over.com/",
       "host": "news30over.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -1904,81 +1879,39 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://newsmana.com/",
-      "host": "newsmana.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://nihonnonews.blog.jp/",
+      "host": "nihonnonews.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
-      ]
-    },
-    {
-      "url": "https://nijifan.net/",
-      "host": "nijifan.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://nijisanjinews.jp/",
       "host": "nijisanjinews.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
+      "url": "https://ningame-news.com/",
+      "host": "ningame-news.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
       "url": "http://nmb48-mtm.com/",
       "host": "nmb48-mtm.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
-      ]
-    },
-    {
-      "url": "https://nofootynolife.net/",
-      "host": "nofootynolife.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
-      ]
-    },
-    {
-      "url": "https://nogizaka46-matome.jp/",
-      "host": "nogizaka46-matome.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
-      ]
-    },
-    {
-      "url": "https://nogizaka46link.blog.jp/",
-      "host": "nogizaka46link.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
-      ]
-    },
-    {
-      "url": "https://nogizakajyoho46.com/",
-      "host": "nogizakajyoho46.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "2ch-c-sites"
       ]
     },
     {
@@ -1986,26 +1919,8 @@
       "host": "norisoku.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://nwknews.jp/",
-      "host": "nwknews.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-31",
-        "owata"
-      ]
-    },
-    {
-      "url": "http://nyankosokuho.com/",
-      "host": "nyankosokuho.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -2014,8 +1929,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2023,24 +1937,16 @@
       "host": "oekaki-navi.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://oishiimatome.com/",
       "host": "oishiimatome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-211"
-      ]
-    },
-    {
-      "url": "https://okazurand.net/",
-      "host": "okazurand.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2048,15 +1954,8 @@
       "host": "okusama-kijyo.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://one.plime.com/",
-      "host": "one.plime.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "owata"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -2064,31 +1963,24 @@
       "host": "onecall2ch.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
         "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://onihimechan.com/",
       "host": "onihimechan.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "http://ooiotakara.com/",
-      "host": "ooiotakara.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://oomonoyoutubersokuhou.blogo.jp/",
+      "host": "oomonoyoutubersokuhou.blogo.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2096,19 +1988,24 @@
       "host": "openworldnews.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://oryouri.2chblog.jp/",
-      "host": "oryouri.2chblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://ori-soku.blog.jp/",
+      "host": "ori-soku.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://oryouri.2chblog.jp/",
+      "host": "oryouri.2chblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -2117,107 +2014,79 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://otonarisoku.com/",
-      "host": "otonarisoku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://otoko-honne.com/",
+      "host": "otoko-honne.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://otonary.net/",
       "host": "otonary.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://ouchinews.doorblog.jp/",
-      "host": "ouchinews.doorblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
-      ]
-    },
-    {
       "url": "http://oumaga-times.com/",
       "host": "oumaga-times.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "http://overjoyed.info/",
-      "host": "overjoyed.info",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://pachinkolist.com/",
+      "host": "pachinkolist.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://pachinkopachisro.com/",
       "host": "pachinkopachisro.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
       ]
     },
     {
       "url": "http://pandora11.com/",
       "host": "pandora11.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://paranormal-ch.com/",
       "host": "paranormal-ch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://pikasoku.net/",
-      "host": "pikasoku.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://parlourfullslotl.com/",
+      "host": "parlourfullslotl.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://pioncoo.net/",
       "host": "pioncoo.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://po-kaki-to.com/",
-      "host": "po-kaki-to.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
       ]
     },
     {
@@ -2226,14 +2095,45 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://pokemon-masters.2chblog.jp/",
+      "host": "pokemon-masters.2chblog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://pokemon-matome.net/",
+      "host": "pokemon-matome.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://pokemongo-kouryakumatome.net/",
+      "host": "pokemongo-kouryakumatome.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://pokemongo2ch.net/",
+      "host": "pokemongo2ch.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://pokepokerin.com/",
       "host": "pokepokerin.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -2241,7 +2141,7 @@
     {
       "url": "https://precurematome.com/",
       "host": "precurematome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -2252,9 +2152,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31",
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2263,50 +2161,55 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
-      ]
-    },
-    {
-      "url": "https://red4-kaigaimatome.com/",
-      "host": "red4-kaigaimatome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://repsoku.net/",
       "host": "repsoku.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://rise.enhance.co.jp/",
-      "host": "rise.enhance.co.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://ringofred53.com/",
+      "host": "ringofred53.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1",
-        "matomeantena-rank-121",
-        "matomeantena-rank-151",
-        "matomeantena-rank-181",
-        "matomeantena-rank-211",
-        "matomeantena-rank-31",
-        "matomeantena-rank-61",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://roboanime.com/",
       "host": "roboanime.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "http://romasaga-reuniverse.blog.jp/",
+      "host": "romasaga-reuniverse.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://romasagars.blog.jp/",
+      "host": "romasagars.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://roziura.blog.jp/",
+      "host": "roziura.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -2314,10 +2217,8 @@
       "host": "ryusoku.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2325,8 +2226,8 @@
       "host": "s2-log.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -2334,28 +2235,8 @@
       "host": "saikyo-jump.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
-      ]
-    },
-    {
-      "url": "https://sakamichi48.blog.jp/",
-      "host": "sakamichi48.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
-      ]
-    },
-    {
-      "url": "https://sakamichijyoho46.blog.jp/",
-      "host": "sakamichijyoho46.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2364,9 +2245,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2375,71 +2254,63 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://samuraigoal.doorblog.jp/",
+      "url": "https://samurai-baseball.com/",
+      "host": "samurai-baseball.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://samuraigoal.doorblog.jp/",
       "host": "samuraigoal.doorblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://samuraisoccer.doorblog.jp/",
+      "url": "http://samuraisoccer.doorblog.jp/",
       "host": "samuraisoccer.doorblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "https://schema.org/",
-      "host": "schema.org",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://seiyumemo.blog.jp/",
+      "host": "seiyumemo.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "http://scienceplus2ch.com/",
-      "host": "scienceplus2ch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
-      ]
-    },
-    {
-      "url": "https://seikeidouga.blog.jp/",
-      "host": "seikeidouga.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://sekainojump.com/",
       "host": "sekainojump.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
       ]
     },
     {
-      "url": "https://shikaku2ch.doorblog.jp/",
-      "host": "shikaku2ch.doorblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "http://shadosoku.com/",
+      "host": "shadosoku.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-31"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://shiritimes.net/",
+      "host": "shiritimes.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -2447,7 +2318,16 @@
       "host": "shouginews.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://shourouweb.livedoor.blog/",
+      "host": "shourouweb.livedoor.blog",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -2455,7 +2335,8 @@
       "host": "shuraba-matome.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -2463,13 +2344,14 @@
       "host": "ske48matome.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://slotlog.net/",
       "host": "slotlog.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -2477,27 +2359,31 @@
     {
       "url": "https://sorekarano.blog.jp/",
       "host": "sorekarano.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "owata"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://sow.blog.jp/",
-      "host": "sow.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://splatoon-torikara.com/",
+      "host": "splatoon-torikara.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121",
-        "owata"
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://splatoon.gamers-labo.com/",
+      "host": "splatoon.gamers-labo.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://squallchannel.com/",
       "host": "squallchannel.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -2505,36 +2391,17 @@
     {
       "url": "http://ssbiyori.blog.fc2.com/",
       "host": "ssbiyori.blog.fc2.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "2ch-c-sites"
       ]
     },
     {
-      "url": "https://ssimas72.blog.jp/",
+      "url": "http://ssimas72.blog.jp/",
       "host": "ssimas72.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
-      ]
-    },
-    {
-      "url": "https://static.cloudflareinsights.com/",
-      "host": "static.cloudflareinsights.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "owata"
-      ]
-    },
-    {
-      "url": "https://static.plime.com/",
-      "host": "static.plime.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "owata"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2542,26 +2409,32 @@
       "host": "sumaburayasan.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "http://suresuta.jp/",
+      "host": "suresuta.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://suropachi-line.com/",
       "host": "suropachi-line.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://sutekinakijo.com/",
       "host": "sutekinakijo.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2570,39 +2443,31 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://switchsoku.com/",
       "host": "switchsoku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61",
-        "owata"
+        "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "https://syu-syoku-syu-katu-ouen.blog.jp/",
+      "host": "syu-syoku-syu-katu-ouen.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://syurabahazard.com/",
       "host": "syurabahazard.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
-      ]
-    },
-    {
-      "url": "https://taikankyohou.com/",
-      "host": "taikankyohou.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2610,35 +2475,16 @@
       "host": "tasogarech.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://thainokoe.com/",
-      "host": "thainokoe.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-181"
-      ]
-    },
-    {
-      "url": "https://torasoku.blog.jp/",
-      "host": "torasoku.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://totalwar.doorblog.jp/",
       "host": "totalwar.doorblog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2646,23 +2492,16 @@
       "host": "toushichannel.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
         "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://tozanchannel.blog.jp/",
       "host": "tozanchannel.blog.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2671,33 +2510,23 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
       ]
     },
     {
-      "url": "http://tsurimatome.com/",
-      "host": "tsurimatome.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "url": "https://tuimichan.blog.jp/",
+      "host": "tuimichan.blog.jp",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://twibuz.com/",
       "host": "twibuz.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://tyoieronews.com/",
-      "host": "tyoieronews.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs"
       ]
     },
     {
@@ -2705,7 +2534,8 @@
       "host": "uma-log.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -2713,7 +2543,16 @@
       "host": "umamusume-pakamusu.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://umamusume-umapyoi.com/",
+      "host": "umamusume-umapyoi.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
@@ -2721,20 +2560,24 @@
       "host": "umamusume.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-ranking",
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
+      ]
+    },
+    {
+      "url": "https://umasoku.com/",
+      "host": "umasoku.com",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://usi32.com/",
       "host": "usi32.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31",
-        "owata"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2743,9 +2586,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2753,7 +2594,8 @@
       "host": "uwakitaiken.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -2761,10 +2603,8 @@
       "host": "vehicle123.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2773,19 +2613,15 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://vipsister23.com/",
       "host": "vipsister23.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2793,16 +2629,14 @@
       "host": "visual-matome.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "http://vsnp.net/",
       "host": "vsnp.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -2810,7 +2644,7 @@
     {
       "url": "https://vsponews.jp/",
       "host": "vsponews.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -2821,8 +2655,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
@@ -2830,54 +2663,30 @@
       "host": "vtuber-matomeruyon.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://vtubernews.jp/",
       "host": "vtubernews.jp",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
-      ]
-    },
-    {
-      "url": "http://w3.org/",
-      "host": "w3.org",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "owata"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://wara2ch.com/",
       "host": "wara2ch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
-      ]
-    },
-    {
-      "url": "https://watarukiti.com/",
-      "host": "watarukiti.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "http://watch-times.com/",
       "host": "watch-times.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
       ]
@@ -2885,22 +2694,17 @@
     {
       "url": "https://watch2chan.com/",
       "host": "watch2chan.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-61"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "http://workingnews117.com/",
       "host": "workingnews117.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-31",
-        "owata"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2908,75 +2712,48 @@
       "host": "world-fusigi.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-ranking",
         "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
-      ]
-    },
-    {
-      "url": "https://world-soccer-fan.com/",
-      "host": "world-soccer-fan.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-151"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://worldfn.net/",
       "host": "worldfn.net",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-91"
-      ]
-    },
-    {
-      "url": "https://worldsoccerch.com/",
-      "host": "worldsoccerch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-211"
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://xn--fgo-gh8fn72e.com/",
       "host": "xn--fgo-gh8fn72e.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites"
+      ]
+    },
+    {
+      "url": "https://xn--gdkl0dubtwb7e.net/",
+      "host": "xn--gdkl0dubtwb7e.net",
+      "firstSeenAt": "2026-06-14T10:11:57.184Z",
+      "sources": [
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://xn--o9j0bk1l6d1bnv1as45bb2j.com/",
       "host": "xn--o9j0bk1l6d1bnv1as45bb2j.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://xresolutionx.livedoor.blog/",
-      "host": "xresolutionx.livedoor.blog",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-121"
       ]
     },
     {
       "url": "https://you1news.com/",
       "host": "you1news.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites",
-        "matomeantena",
-        "matomeantena-blogs",
-        "matomeantena-rank-1"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2984,7 +2761,8 @@
       "host": "ysokuhou.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
@@ -2992,36 +2770,23 @@
       "host": "yugioh-starlight.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
-        "2ch-c",
-        "2ch-c-sites"
-      ]
-    },
-    {
-      "url": "https://yukoku-ch.com/",
-      "host": "yukoku-ch.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
-      "sources": [
-        "matomeantena-blogs",
-        "matomeantena-rank-211"
+        "2ch-c-sites",
+        "newmatoan-sites"
       ]
     },
     {
       "url": "https://zch-vip.com/",
       "host": "zch-vip.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "matomeantena-blogs",
-        "matomeantena-rank-121",
-        "owata"
+        "2ch-c-sites"
       ]
     },
     {
       "url": "https://zzzsoku.com/",
       "host": "zzzsoku.com",
-      "firstSeenAt": "2026-06-14T10:07:41.065Z",
+      "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c",
         "2ch-c-sites"
       ]
     }

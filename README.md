@@ -44,13 +44,22 @@ GitHub Actions cron expressions use UTC, so this runs every Monday at 03:17 in J
 
 ## How It Works
 
-1. GitHub Actions visits antenna pages configured in `src/sources.ts`.
-2. It extracts URLs from normal HTML links and embedded script payloads such as escaped Nuxt data.
+1. GitHub Actions visits curated site-directory pages configured in `src/sources.ts`.
+2. Each source uses a source-specific parser for its directory structure.
 3. It normalizes tracking parameters, `www.` prefixes, fragments, and redirect-wrapper URLs.
 4. It excludes source antenna sites, 5ch/2ch platform hosts, analytics hosts, and other configured non-target hosts.
 5. It deduplicates by canonical host and stores first-seen timestamps plus source provenance in `sites.json`.
 6. It writes generated lists to `public/`.
 7. If generated files changed, GitHub Actions commits and pushes the update.
+
+## Current Sources
+
+The collector intentionally uses only registration/directory pages whose structure is understood:
+
+- `https://2ch-c.net/?p=site`
+- `https://newmatoan.com/tourokusaitoitiran/`
+
+It does not scrape arbitrary article pages, ranking pages, script payloads, analytics tags, JSON-LD, or generic embedded URLs.
 
 ## Local Development
 

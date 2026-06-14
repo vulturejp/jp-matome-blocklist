@@ -26,7 +26,6 @@ const TRACKING_PARAMS = [
 export function extractUrls(html: string, baseUrl: string): string[] {
   const urls = new Set<string>();
   const hrefPattern = /\bhref\s*=\s*(["'])(.*?)\1/giu;
-  const rawUrlPattern = /https?:\/\/[^\s"'<>\\)]+/giu;
 
   for (const match of html.matchAll(hrefPattern)) {
     const rawHref = decodeHtml(match[2]?.trim() ?? "");
@@ -40,15 +39,15 @@ export function extractUrls(html: string, baseUrl: string): string[] {
     }
   }
 
-  for (const match of decodeEmbeddedUrl(html).matchAll(rawUrlPattern)) {
-    const rawUrl = match[0];
-    const normalized = normalizeUrl(rawUrl, baseUrl);
-    if (normalized) {
-      urls.add(normalized);
-    }
+  return [...urls].sort();
+}
+
+export function extractSourceUrls(source: Source, html: string): string[] {
+  if (source.strategy === "hatena-favicon-url") {
+    return extractHatenaFaviconUrls(html, source.url);
   }
 
-  return [...urls].sort();
+  return extractTableALinks(html, source.url);
 }
 
 export function normalizeUrl(rawUrl: string, baseUrl?: string): string | null {
@@ -111,9 +110,20 @@ export function isCandidateMatomeUrl(url: string): boolean {
   return /\.(blog|com|net|jp|info|org)$/u.test(host) || host.includes("blog");
 }
 
-export function mergeSites(sourceId: string, urls: string[], existing: CollectedSite[], now: string): CollectedSite[] {
+export function mergeSites(
+  sourceId: string,
+  urls: string[],
+  existing: CollectedSite[],
+  now: string,
+  historical: CollectedSite[] = []
+): CollectedSite[] {
   const byHost = new Map(
     existing
+      .filter((site) => isCandidateMatomeUrl(site.url))
+      .map((site) => [site.host, { ...site, sources: [...site.sources] }])
+  );
+  const historicalByHost = new Map(
+    historical
       .filter((site) => isCandidateMatomeUrl(site.url))
       .map((site) => [site.host, { ...site, sources: [...site.sources] }])
   );
@@ -134,10 +144,11 @@ export function mergeSites(sourceId: string, urls: string[], existing: Collected
       continue;
     }
 
+    const existingSite = historicalByHost.get(host);
     byHost.set(host, {
       url: originUrl(url),
       host,
-      firstSeenAt: now,
+      firstSeenAt: existingSite?.firstSeenAt ?? now,
       sources: [sourceId]
     });
   }
@@ -166,7 +177,8 @@ export async function collectFromSources(
   now = new Date().toISOString(),
   userAgent = "jp-matome-blocklist-bot/0.1"
 ): Promise<CollectedSite[]> {
-  let sites = existing;
+  const historical = existing;
+  let sites: CollectedSite[] = [];
 
   for (const source of sources) {
     const response = await fetcher(source.url, {
@@ -182,7 +194,7 @@ export async function collectFromSources(
     }
 
     const html = await response.text();
-    sites = mergeSites(source.id, extractUrls(html, source.url), sites, now);
+    sites = mergeSites(source.id, extractSourceUrls(source, html), sites, now, historical);
   }
 
   return sites;
@@ -215,6 +227,26 @@ function unwrapRedirectUrl(url: URL): string | null {
   }
 
   return null;
+}
+
+function extractHatenaFaviconUrls(html: string, baseUrl: string): string[] {
+  const urls = new Set<string>();
+  const faviconPattern = /favicon\.hatena\.ne\.jp\/\?url=([^"'\s>]+)/giu;
+
+  for (const match of html.matchAll(faviconPattern)) {
+    const rawUrl = decodeHtml(match[1] ?? "");
+    const normalized = normalizeUrl(rawUrl, baseUrl);
+    if (normalized) {
+      urls.add(normalized);
+    }
+  }
+
+  return [...urls].sort();
+}
+
+function extractTableALinks(html: string, baseUrl: string): string[] {
+  const table = html.match(/<table\b[^>]*class=(["'])[^"']*\btable-a\b[^"']*\1[^>]*>[\s\S]*?<\/table>/iu)?.[0] ?? "";
+  return extractUrls(table, baseUrl);
 }
 
 function renderUrls(sites: CollectedSite[]): string {
@@ -255,12 +287,4 @@ function decodeHtml(value: string): string {
     .replaceAll("&#39;", "'")
     .replaceAll("&lt;", "<")
     .replaceAll("&gt;", ">");
-}
-
-function decodeEmbeddedUrl(value: string): string {
-  return decodeHtml(value)
-    .replaceAll("\\u002F", "/")
-    .replaceAll("\\/", "/")
-    .replaceAll("\\u003A", ":")
-    .replace(/[),.;]+$/u, "");
 }
