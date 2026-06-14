@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-06-14T10:15:24.197Z
+! Last modified: 2026-06-14T10:16:07.796Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||2ch-matomenews.com^
