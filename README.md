@@ -43,12 +43,7 @@ Cloudflare cron expressions use UTC, so this runs every Monday at 03:17 in Japan
 
 ## Cloudflare Resources
 
-This repository is configured for:
-
-- Cloudflare account: `26c7e8e9cacd87df91ea5ae48d205794`
-- Workers KV binding: `BLOCKLIST_KV`
-- Workers KV namespace: `4b6eb4392fd64968a00ab1c45209a975`
-- Worker name: `jp-matome-blocklist`
+This project uses a Workers KV binding named `BLOCKLIST_KV`.
 
 Do not commit Cloudflare API tokens. Pass them through environment variables when running Wrangler commands.
 
@@ -74,8 +69,8 @@ CLOUDFLARE_API_TOKEN=<token> npm run deploy
 Use `npm run seed` to collect sources locally and upload generated files to Workers KV immediately, without waiting for the weekly Cron Trigger.
 
 ```sh
-CLOUDFLARE_ACCOUNT_ID=26c7e8e9cacd87df91ea5ae48d205794 \
-CLOUDFLARE_KV_NAMESPACE_ID=4b6eb4392fd64968a00ab1c45209a975 \
+CLOUDFLARE_ACCOUNT_ID=<account-id> \
+CLOUDFLARE_KV_NAMESPACE_ID=<kv-namespace-id> \
 CLOUDFLARE_API_TOKEN=<token> \
 npm run seed
 ```
