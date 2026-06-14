@@ -1,6 +1,6 @@
 # Japanese Matome Blog Blocklist
 
-Japanese Matome Blog Blocklist is a Cloudflare Workers project that collects Japanese 5ch/2ch matome blog domains from antenna sites, deduplicates them by host, and publishes blocklists for common blockers and search-result filters.
+Japanese Matome Blog Blocklist collects Japanese 5ch/2ch matome blog domains from antenna sites, deduplicates them by host, and publishes blocklists for common blockers and search-result filters.
 
 Published formats:
 
@@ -10,42 +10,47 @@ Published formats:
 - uBlacklist rule list: `ublacklist.txt`
 - Machine-readable metadata: `sites.json`
 
-## Public Endpoints
+## Published Files
 
-The current Cloudflare Worker serves:
+Generated files are committed to `public/`:
 
 ```text
-https://jp-matome-blocklist.vulturejp-dev.workers.dev/urls.txt
-https://jp-matome-blocklist.vulturejp-dev.workers.dev/ublock.txt
-https://jp-matome-blocklist.vulturejp-dev.workers.dev/adguard.txt
-https://jp-matome-blocklist.vulturejp-dev.workers.dev/ublacklist.txt
-https://jp-matome-blocklist.vulturejp-dev.workers.dev/sites.json
+public/urls.txt
+public/ublock.txt
+public/adguard.txt
+public/ublacklist.txt
+public/sites.json
+```
+
+Raw GitHub URLs:
+
+```text
+https://raw.githubusercontent.com/vulturejp/jp-matome-blocklist/main/public/urls.txt
+https://raw.githubusercontent.com/vulturejp/jp-matome-blocklist/main/public/ublock.txt
+https://raw.githubusercontent.com/vulturejp/jp-matome-blocklist/main/public/adguard.txt
+https://raw.githubusercontent.com/vulturejp/jp-matome-blocklist/main/public/ublacklist.txt
+https://raw.githubusercontent.com/vulturejp/jp-matome-blocklist/main/public/sites.json
 ```
 
 ## Update Schedule
 
-Cloudflare Cron Triggers run the collector once a week:
+GitHub Actions runs the collector once a week:
 
 ```text
 17 18 * * 0
 ```
 
-Cloudflare cron expressions use UTC, so this runs every Monday at 03:17 in Japan Standard Time.
+GitHub Actions cron expressions use UTC, so this runs every Monday at 03:17 in Japan Standard Time.
 
 ## How It Works
 
-1. The Worker visits antenna pages configured in `src/sources.ts`.
+1. GitHub Actions visits antenna pages configured in `src/sources.ts`.
 2. It extracts URLs from normal HTML links and embedded script payloads such as escaped Nuxt data.
 3. It normalizes tracking parameters, `www.` prefixes, fragments, and redirect-wrapper URLs.
 4. It excludes source antenna sites, 5ch/2ch platform hosts, analytics hosts, and other configured non-target hosts.
 5. It deduplicates by canonical host and stores first-seen timestamps plus source provenance in `sites.json`.
-6. It writes generated lists to Workers KV and serves them from the Worker HTTP endpoint.
-
-## Cloudflare Resources
-
-This project uses a Workers KV binding named `BLOCKLIST_KV`.
-
-Do not commit Cloudflare API tokens. Pass them through environment variables when running Wrangler commands.
+6. It writes generated lists to `public/`.
+7. If generated files changed, GitHub Actions commits and pushes the update.
 
 ## Local Development
 
@@ -53,27 +58,18 @@ Do not commit Cloudflare API tokens. Pass them through environment variables whe
 npm install
 npm run typecheck
 npm test
-npm run dev
+npm run generate
 ```
 
 The test script compiles TypeScript into `dist-test/` before running Node's built-in test runner.
 
-## Deploy
+## Manual Update
 
 ```sh
-CLOUDFLARE_API_TOKEN=<token> npm run deploy
+npm run generate
 ```
 
-## Seed KV Manually
-
-Use `npm run seed` to collect sources locally and upload generated files to Workers KV immediately, without waiting for the weekly Cron Trigger.
-
-```sh
-CLOUDFLARE_ACCOUNT_ID=<account-id> \
-CLOUDFLARE_KV_NAMESPACE_ID=<kv-namespace-id> \
-CLOUDFLARE_API_TOKEN=<token> \
-npm run seed
-```
+Commit the resulting `public/` changes if the generated output looks good.
 
 ## Adding Sources
 
@@ -91,4 +87,8 @@ export const SOURCES = [
 
 ## Maintenance Notes
 
-Matome blogs and antenna sites change their URL structures frequently. Review `sites.json` after the first few weekly runs and add false positives to `EXCLUDE_HOSTS` as needed.
+Matome blogs and antenna sites change their URL structures frequently. Review `public/sites.json` after the first few weekly runs and add false positives to `EXCLUDE_HOSTS` as needed.
+
+## Rollback
+
+The previous Cloudflare Workers implementation is preserved at the `cloudflare-workers-backup` branch and the `cloudflare-workers-backup-20260614` tag.
