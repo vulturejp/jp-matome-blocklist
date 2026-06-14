@@ -47,7 +47,11 @@ export function extractSourceUrls(source: Source, html: string): string[] {
     return extractHatenaFaviconUrls(html, source.url);
   }
 
-  return extractTableALinks(html, source.url);
+  if (source.strategy === "blog-count-links") {
+    return extractBlogCountLinks(html, source.url);
+  }
+
+  return extractMoudamepoOutLinks(html, source.url);
 }
 
 export function normalizeUrl(rawUrl: string, baseUrl?: string): string | null {
@@ -250,9 +254,32 @@ function extractHatenaFaviconUrls(html: string, baseUrl: string): string[] {
   return [...urls].sort();
 }
 
-function extractTableALinks(html: string, baseUrl: string): string[] {
-  const table = html.match(/<table\b[^>]*class=(["'])[^"']*\btable-a\b[^"']*\1[^>]*>[\s\S]*?<\/table>/iu)?.[0] ?? "";
-  return extractUrls(table, baseUrl);
+function extractBlogCountLinks(html: string, baseUrl: string): string[] {
+  const urls = new Set<string>();
+  const blogLinkPattern = /<a\b(?=[^>]*\bclass=(["'])[^"']*\bblog-count\b[^"']*\1)[^>]*\bhref=(["'])(.*?)\2/giu;
+
+  for (const match of html.matchAll(blogLinkPattern)) {
+    const normalized = normalizeUrl(decodeHtml(match[3] ?? ""), baseUrl);
+    if (normalized) {
+      urls.add(normalized);
+    }
+  }
+
+  return [...urls].sort();
+}
+
+function extractMoudamepoOutLinks(html: string, baseUrl: string): string[] {
+  const urls = new Set<string>();
+  const outLinkPattern = /<a\b[^>]*\bhref=(["'])out\.cgi\?\d+=(https?:\/\/.*?)\1/giu;
+
+  for (const match of html.matchAll(outLinkPattern)) {
+    const normalized = normalizeUrl(decodeHtml(match[2] ?? ""), baseUrl);
+    if (normalized) {
+      urls.add(normalized);
+    }
+  }
+
+  return [...urls].sort();
 }
 
 function retainHistoricalSource(sourceId: string, historical: CollectedSite[], current: CollectedSite[]): CollectedSite[] {

@@ -54,25 +54,44 @@ test("extractSourceUrls reads 2ch-c site directory favicon URLs only", () => {
   );
 });
 
-test("extractSourceUrls reads newmatoan table rows only", () => {
+test("extractSourceUrls reads nullpo blog-count links only", () => {
   const html = `
-    <a href="https://newmatoan.com/">top</a>
-    <table class="table-a">
-      <tr><th><a href="https://example.com/" target="_blank" rel="noopener">Example</a></th><td>総合</td></tr>
-    </table>
-    <a href="https://w3.org/">outside table</a>
+    <script async src="https://www.googletagmanager.com/gtag/js"></script>
+    <a rel="nofollow" href="/blog/126">detail</a>
+    <a class="blog-count" onmousedown="return blog_count(this);" href="https://example.com/" blog_id="1" target="_blank">Example</a>
   `;
 
   assert.deepEqual(
     extractSourceUrls(
       {
-        id: "newmatoan-sites",
-        url: "https://newmatoan.com/tourokusaitoitiran/",
-        strategy: "table-a-links"
+        id: "nullpoantenna-blogs",
+        url: "https://nullpoantenna.com/blogs",
+        strategy: "blog-count-links"
       },
       html
     ),
     ["https://example.com/"]
+  );
+});
+
+test("extractSourceUrls reads moudamepo out.cgi URLs only", () => {
+  const html = `
+    <script async src="https://www.googletagmanager.com/gtag/js"></script>
+    <a href="about.html">about</a>
+    <a href="out.cgi?1010=http://example.com/">Example</a>
+    <a href="./feed.cgi?code=1010">RSS</a>
+  `;
+
+  assert.deepEqual(
+    extractSourceUrls(
+      {
+        id: "moudamepo-list",
+        url: "https://moudamepo.com/list.html",
+        strategy: "moudamepo-out-links"
+      },
+      html
+    ),
+    ["http://example.com/"]
   );
 });
 
@@ -180,12 +199,12 @@ test("collectFromSources retains historical source entries when a source fetch f
       {
         id: "source-a",
         url: "https://source-a.example/",
-        strategy: "table-a-links"
+        strategy: "blog-count-links"
       },
       {
         id: "source-b",
         url: "https://source-b.example/",
-        strategy: "table-a-links"
+        strategy: "blog-count-links"
       }
     ],
     async (url) => {
@@ -194,9 +213,7 @@ test("collectFromSources retains historical source entries when a source fetch f
       }
 
       return new Response(`
-        <table class="table-a">
-          <tr><th><a href="https://fresh.example.com/">Fresh</a></th></tr>
-        </table>
+        <a class="blog-count" href="https://fresh.example.com/">Fresh</a>
       `);
     },
     [

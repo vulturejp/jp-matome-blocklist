@@ -57,7 +57,8 @@ GitHub Actions cron expressions use UTC, so this runs every Monday at 03:17 in J
 The collector intentionally uses only registration/directory pages whose structure is understood:
 
 - `https://2ch-c.net/?p=site`
-- `https://newmatoan.com/tourokusaitoitiran/`
+- `https://nullpoantenna.com/blogs`
+- `https://moudamepo.com/list.html`
 
 It does not scrape arbitrary article pages, ranking pages, script payloads, analytics tags, JSON-LD, or generic embedded URLs.
 

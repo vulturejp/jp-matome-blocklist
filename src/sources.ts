@@ -1,7 +1,7 @@
 export interface Source {
   id: string;
   url: string;
-  strategy: "hatena-favicon-url" | "table-a-links";
+  strategy: "hatena-favicon-url" | "blog-count-links" | "moudamepo-out-links";
   note?: string;
 }
 
@@ -13,16 +13,23 @@ export const SOURCES: Source[] = [
     note: "2ch matome antenna site directory"
   },
   {
-    id: "newmatoan-sites",
-    url: "https://newmatoan.com/tourokusaitoitiran/",
-    strategy: "table-a-links",
-    note: "NEW matome antenna site directory"
+    id: "nullpoantenna-blogs",
+    url: "https://nullpoantenna.com/blogs",
+    strategy: "blog-count-links",
+    note: "Nullpo antenna blog directory"
+  },
+  {
+    id: "moudamepo-list",
+    url: "https://moudamepo.com/list.html",
+    strategy: "moudamepo-out-links",
+    note: "Moudamepo antenna site directory"
   }
 ];
 
 export const ALLOW_HOSTS = [
   "2ch-c.net",
-  "newmatoan.com"
+  "nullpoantenna.com",
+  "moudamepo.com"
 ];
 
 export const EXCLUDE_HOSTS = [
