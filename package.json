@@ -1,8 +1,8 @@
 {
-  "name": "matomesaito",
+  "name": "jp-matome-blocklist",
   "version": "0.1.0",
   "private": true,
-  "description": "Collect 5ch/matome blog URLs from antenna sites and publish blocklists for uBlock Origin, AdGuard, and uBlacklist.",
+  "description": "Collect Japanese 5ch/2ch matome blog URLs from antenna sites and publish blocklists for uBlock Origin, AdGuard, and uBlacklist.",
   "type": "module",
   "scripts": {
     "build": "tsc --outDir dist --noEmit false",

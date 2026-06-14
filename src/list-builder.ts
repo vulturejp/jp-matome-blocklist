@@ -164,7 +164,7 @@ export async function collectFromSources(
   fetcher: typeof fetch,
   existing: CollectedSite[] = [],
   now = new Date().toISOString(),
-  userAgent = "matomesaito-bot/0.1"
+  userAgent = "jp-matome-blocklist-bot/0.1"
 ): Promise<CollectedSite[]> {
   let sites = existing;
 
@@ -223,10 +223,10 @@ function renderUrls(sites: CollectedSite[]): string {
 
 function renderUblock(sites: CollectedSite[], generatedAt: string): string {
   const lines = [
-    "! Title: Matomesaito 5ch Matome Blocklist",
+    "! Title: Japanese Matome Blog Blocklist",
     `! Last modified: ${generatedAt}`,
-    "! Expires: 1 day",
-    "! Homepage: https://github.com/yourname/matomesaito",
+    "! Expires: 7 days",
+    "! Homepage: https://github.com/vulturejp/jp-matome-blocklist",
     ...sites.map((site) => `||${site.host}^`)
   ];
 
@@ -235,9 +235,9 @@ function renderUblock(sites: CollectedSite[], generatedAt: string): string {
 
 function renderAdGuard(sites: CollectedSite[], generatedAt: string): string {
   const lines = [
-    "! Title: Matomesaito 5ch Matome Blocklist for AdGuard",
+    "! Title: Japanese Matome Blog Blocklist for AdGuard",
     `! Last modified: ${generatedAt}`,
-    "! Expires: 1 day",
+    "! Expires: 7 days",
     ...sites.map((site) => `||${site.host}^`)
   ];
 

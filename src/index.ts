@@ -70,7 +70,7 @@ async function readExistingSites(env: Env): Promise<CollectedSite[]> {
 function indexResponse(url: URL): Response {
   const base = `${url.origin}/`;
   const body = [
-    "matomesaito blocklists",
+    "Japanese Matome Blog Blocklist",
     "",
     `URL list: ${base}urls.txt`,
     `uBlock Origin: ${base}ublock.txt`,
