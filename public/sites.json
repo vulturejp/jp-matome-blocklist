@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:43:30.607Z",
+  "generatedAt": "2026-07-12T19:32:55.866Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -3566,6 +3566,14 @@
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://toppogi-news.com/",
+      "host": "toppogi-news.com",
+      "firstSeenAt": "2026-07-12T19:32:55.866Z",
+      "sources": [
+        "nullpoantenna-blogs"
       ]
     },
     {

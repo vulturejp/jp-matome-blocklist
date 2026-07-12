@@ -411,6 +411,7 @@
 *://tasogarech.blog.jp/*
 *://thainokoe.com/*
 *://toku-log.com/*
+*://toppogi-news.com/*
 *://torasoku.blog.jp/*
 *://totalmatomedia.blog.fc2.com/*
 *://totalwar.doorblog.jp/*
