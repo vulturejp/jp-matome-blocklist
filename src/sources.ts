@@ -1,7 +1,15 @@
 export interface Source {
   id: string;
   url: string;
-  strategy: "hatena-favicon-url" | "blog-count-links" | "moudamepo-out-links";
+  strategy:
+    | "hatena-favicon-url"
+    | "blog-count-links"
+    | "out-cgi-links"
+    | "category-list-links"
+    | "registered-table-links"
+    | "post-links"
+    | "site-heading-links"
+    | "go-param-links";
   note?: string;
 }
 
@@ -21,15 +29,57 @@ export const SOURCES: Source[] = [
   {
     id: "moudamepo-list",
     url: "https://moudamepo.com/list.html",
-    strategy: "moudamepo-out-links",
+    strategy: "out-cgi-links",
     note: "Moudamepo antenna site directory"
+  },
+  {
+    id: "2channeler-list",
+    url: "https://2channeler.com/list.html",
+    strategy: "out-cgi-links",
+    note: "2channeler registered site directory"
+  },
+  {
+    id: "wadaiantenna-blogs",
+    url: "https://wadaiantenna.com/blogs",
+    strategy: "category-list-links",
+    note: "Wadai Antenna registered blog directory"
+  },
+  {
+    id: "nwantenna-blogs",
+    url: "https://nwantenna.com/about",
+    strategy: "registered-table-links",
+    note: "New World Antenna registered blog table"
+  },
+  {
+    id: "5chmm-allpost",
+    url: "https://5chmm.jp/allpost.html",
+    strategy: "post-links",
+    note: "5ch Matome no Matome all-site recent posts"
+  },
+  {
+    id: "2chmatome-sites",
+    url: "https://www.2chmatome.jp/",
+    strategy: "site-heading-links",
+    note: "2ch Matome App site directory"
+  },
+  {
+    id: "newmatoan-posts",
+    url: "https://newmatoan.com/",
+    strategy: "go-param-links",
+    note: "NEW Matome Site Antenna recent posts"
   }
 ];
 
 export const ALLOW_HOSTS = [
   "2ch-c.net",
   "nullpoantenna.com",
-  "moudamepo.com"
+  "moudamepo.com",
+  "2channeler.com",
+  "wadaiantenna.com",
+  "nwantenna.com",
+  "5chmm.jp",
+  "2chmatome.jp",
+  "newmatoan.com"
 ];
 
 export const EXCLUDE_HOSTS = [

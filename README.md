@@ -2,6 +2,9 @@
 
 Japanese Matome Blog Blocklist provides blocklists for Japanese 5ch/2ch matome blog domains.
 
+The list is rebuilt daily from nine Japanese matome antenna sources. Source-specific
+extractors are tested so a layout change cannot silently empty the published list.
+
 ## Lists
 
 - `urls.txt`: plain URL list

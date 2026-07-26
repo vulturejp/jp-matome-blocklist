@@ -51,7 +51,27 @@ export function extractSourceUrls(source: Source, html: string): string[] {
     return extractBlogCountLinks(html, source.url);
   }
 
-  return extractMoudamepoOutLinks(html, source.url);
+  if (source.strategy === "out-cgi-links") {
+    return extractOutCgiLinks(html, source.url);
+  }
+
+  if (source.strategy === "category-list-links") {
+    return extractLinksFromSection(html, source.url, /<div\b[^>]*\bclass=(["'])category_list\1[^>]*>/iu, /<\/div>/iu);
+  }
+
+  if (source.strategy === "registered-table-links") {
+    return extractLinksFromSection(html, source.url, /<h2\b[^>]*\bid=(["'])blogs\1[^>]*>/iu, /<h2\b/iu);
+  }
+
+  if (source.strategy === "post-links") {
+    return extractFirstAnchorLinks(html, source.url, /<li\b[^>]*\bclass=(["'])post\1[^>]*>/giu);
+  }
+
+  if (source.strategy === "site-heading-links") {
+    return extractFirstAnchorLinks(html, source.url, /<h2\b[^>]*\bclass=(["'])site\1[^>]*>/giu);
+  }
+
+  return extractGoParamLinks(html, source.url);
 }
 
 export function normalizeUrl(rawUrl: string, baseUrl?: string): string | null {
@@ -200,7 +220,13 @@ export async function collectFromSources(
       }
 
       const html = await response.text();
-      sites = mergeSites(source.id, extractSourceUrls(source, html), sites, now, historical);
+      const urls = extractSourceUrls(source, html);
+      if (urls.length === 0) {
+        throw new Error("No site URLs extracted");
+      }
+
+      console.log(`Collected ${urls.length} URLs from ${source.id}`);
+      sites = mergeSites(source.id, urls, sites, now, historical);
     } catch (error) {
       console.warn(`Skipping ${source.id}: ${error instanceof Error ? error.message : String(error)}`);
       sites = retainHistoricalSource(source.id, historical, sites);
@@ -216,7 +242,7 @@ function originUrl(url: string): string {
 }
 
 function unwrapRedirectUrl(url: URL): string | null {
-  const keys = ["url", "u", "uri", "to", "target", "link", "redirect", "redirect_url"];
+  const keys = ["url", "u", "uri", "to", "target", "link", "redirect", "redirect_url", "go"];
 
   for (const key of keys) {
     const value = url.searchParams.get(key);
@@ -268,11 +294,62 @@ function extractBlogCountLinks(html: string, baseUrl: string): string[] {
   return [...urls].sort();
 }
 
-function extractMoudamepoOutLinks(html: string, baseUrl: string): string[] {
+function extractOutCgiLinks(html: string, baseUrl: string): string[] {
   const urls = new Set<string>();
   const outLinkPattern = /<a\b[^>]*\bhref=(["'])out\.cgi\?\d+=(https?:\/\/.*?)\1/giu;
 
   for (const match of html.matchAll(outLinkPattern)) {
+    const normalized = normalizeUrl(decodeHtml(match[2] ?? ""), baseUrl);
+    if (normalized) {
+      urls.add(normalized);
+    }
+  }
+
+  return [...urls].sort();
+}
+
+function extractLinksFromSection(
+  html: string,
+  baseUrl: string,
+  startPattern: RegExp,
+  endPattern: RegExp
+): string[] {
+  const start = startPattern.exec(html);
+  if (!start || start.index === undefined) {
+    return [];
+  }
+
+  const contentStart = start.index + start[0].length;
+  const rest = html.slice(contentStart);
+  const end = endPattern.exec(rest);
+  const section = end?.index === undefined ? rest : rest.slice(0, end.index);
+  return extractUrls(section, baseUrl);
+}
+
+function extractFirstAnchorLinks(html: string, baseUrl: string, containerPattern: RegExp): string[] {
+  const urls = new Set<string>();
+
+  for (const match of html.matchAll(containerPattern)) {
+    const start = (match.index ?? 0) + match[0].length;
+    const anchor = /<a\b[^>]*\bhref=(["'])(.*?)\1/iu.exec(html.slice(start));
+    if (!anchor) {
+      continue;
+    }
+
+    const normalized = normalizeUrl(decodeHtml(anchor[2] ?? ""), baseUrl);
+    if (normalized) {
+      urls.add(normalized);
+    }
+  }
+
+  return [...urls].sort();
+}
+
+function extractGoParamLinks(html: string, baseUrl: string): string[] {
+  const urls = new Set<string>();
+  const goLinkPattern = /<a\b[^>]*\bhref=(["'])([^"']*[?&]go=[^"']+)\1/giu;
+
+  for (const match of html.matchAll(goLinkPattern)) {
     const normalized = normalizeUrl(decodeHtml(match[2] ?? ""), baseUrl);
     if (normalized) {
       urls.add(normalized);

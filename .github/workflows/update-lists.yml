@@ -3,7 +3,12 @@ name: Update blocklists
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 18 * * 0"
+    # Run every day at 03:17 JST (18:17 UTC).
+    - cron: "17 18 * * *"
+
+concurrency:
+  group: update-blocklists
+  cancel-in-progress: true
 
 permissions:
   contents: write

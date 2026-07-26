@@ -87,11 +87,111 @@ test("extractSourceUrls reads moudamepo out.cgi URLs only", () => {
       {
         id: "moudamepo-list",
         url: "https://moudamepo.com/list.html",
-        strategy: "moudamepo-out-links"
+        strategy: "out-cgi-links"
       },
       html
     ),
     ["http://example.com/"]
+  );
+});
+
+test("extractSourceUrls reads registered links from a category list", () => {
+  const html = `
+    <a href="https://outside.example/">outside</a>
+    <div class="category_list">
+      <h2>ニュース</h2>
+      <ul><li><a href="https://registered.example.com/">Registered</a></li></ul>
+    </div>
+    <a href="https://footer.example/">footer</a>
+  `;
+
+  assert.deepEqual(
+    extractSourceUrls(
+      {
+        id: "wadaiantenna-blogs",
+        url: "https://wadaiantenna.com/blogs",
+        strategy: "category-list-links"
+      },
+      html
+    ),
+    ["https://registered.example.com/"]
+  );
+});
+
+test("extractSourceUrls reads links from the registered blogs table", () => {
+  const html = `
+    <h2 id="feed">Feeds</h2><a href="https://feed.example/">Feed</a>
+    <h2 id="blogs">登録ブログ</h2>
+    <table><tr><td><a href="https://registered.example.com/">Registered</a></td></tr></table>
+    <h2>Privacy</h2><a href="https://policy.example/">Policy</a>
+  `;
+
+  assert.deepEqual(
+    extractSourceUrls(
+      {
+        id: "nwantenna-blogs",
+        url: "https://nwantenna.com/about",
+        strategy: "registered-table-links"
+      },
+      html
+    ),
+    ["https://registered.example.com/"]
+  );
+});
+
+test("extractSourceUrls reads the first article link from post rows", () => {
+  const html = `
+    <li class="post"><a href="https://article.example.com/posts/1">Article</a>
+      <a href="https://x.com/share">Share</a></li>
+  `;
+
+  assert.deepEqual(
+    extractSourceUrls(
+      {
+        id: "5chmm-allpost",
+        url: "https://5chmm.jp/allpost.html",
+        strategy: "post-links"
+      },
+      html
+    ),
+    ["https://article.example.com/posts/1"]
+  );
+});
+
+test("extractSourceUrls reads site heading links", () => {
+  const html = `
+    <h2 class="site"><a href="https://site.example.com/">Example</a></h2>
+    <ul><li><a href="https://site.example.com/posts/1">Article</a></li></ul>
+  `;
+
+  assert.deepEqual(
+    extractSourceUrls(
+      {
+        id: "2chmatome-sites",
+        url: "https://www.2chmatome.jp/",
+        strategy: "site-heading-links"
+      },
+      html
+    ),
+    ["https://site.example.com/"]
+  );
+});
+
+test("extractSourceUrls unwraps newmatoan go parameters", () => {
+  const html = `
+    <a href="https://newmatoan.com/go/?go=https%3A%2F%2Fexample.com%2Fpost%2F1&amp;sid=1">Article</a>
+  `;
+
+  assert.deepEqual(
+    extractSourceUrls(
+      {
+        id: "newmatoan-posts",
+        url: "https://newmatoan.com/",
+        strategy: "go-param-links"
+      },
+      html
+    ),
+    ["https://example.com/post/1"]
   );
 });
 
@@ -233,5 +333,32 @@ test("collectFromSources retains historical source entries when a source fetch f
       ["fresh.example.com", ["source-b"]],
       ["kept.example.com", ["source-a"]]
     ]
+  );
+});
+
+test("collectFromSources retains historical entries when a source extracts zero URLs", async () => {
+  const sites = await collectFromSources(
+    [
+      {
+        id: "source-a",
+        url: "https://source-a.example/",
+        strategy: "blog-count-links"
+      }
+    ],
+    async () => new Response("<html><body>Changed layout</body></html>"),
+    [
+      {
+        url: "https://kept.example.com/",
+        host: "kept.example.com",
+        firstSeenAt: "2026-01-01T00:00:00.000Z",
+        sources: ["source-a"]
+      }
+    ],
+    "2026-06-14T00:00:00.000Z"
+  );
+
+  assert.deepEqual(
+    sites.map((site) => [site.host, site.sources]),
+    [["kept.example.com", ["source-a"]]]
   );
 });
