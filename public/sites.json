@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T19:36:00.279Z",
+  "generatedAt": "2026-07-27T19:56:39.167Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -171,6 +171,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://aichannell.blog.jp/",
+      "host": "aichannell.blog.jp",
+      "firstSeenAt": "2026-07-27T19:56:39.167Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -1034,7 +1042,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -1839,7 +1846,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2300,6 +2306,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2363,7 +2370,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -2534,7 +2540,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -3687,14 +3692,6 @@
       ]
     },
     {
-      "url": "https://mochidosukoi.blog.jp/",
-      "host": "mochidosukoi.blog.jp",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://moe-vip.com/",
       "host": "moe-vip.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
@@ -3932,11 +3929,20 @@
       ]
     },
     {
+      "url": "https://nanahushi77.livedoor.blog/",
+      "host": "nanahushi77.livedoor.blog",
+      "firstSeenAt": "2026-07-27T19:56:39.167Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://nandemo-uketori.com/",
       "host": "nandemo-uketori.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "newmatoan-posts",
         "nwantenna-blogs"
       ]
@@ -4063,14 +4069,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://neetyutaka.blog.jp/",
-      "host": "neetyutaka.blog.jp",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -4490,6 +4488,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -4520,6 +4519,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -4911,14 +4911,6 @@
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://raicomichan.com/",
-      "host": "raicomichan.com",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -6060,6 +6052,14 @@
       ]
     },
     {
+      "url": "https://unpocoooo.blog.jp/",
+      "host": "unpocoooo.blog.jp",
+      "firstSeenAt": "2026-07-27T19:56:39.167Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://usdjpy-fxyosou.blog.jp/",
       "host": "usdjpy-fxyosou.blog.jp",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
@@ -6471,6 +6471,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://yagov30.com/",
+      "host": "yagov30.com",
+      "firstSeenAt": "2026-07-27T19:56:39.167Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {

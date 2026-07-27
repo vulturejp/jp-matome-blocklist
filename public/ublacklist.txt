@@ -18,6 +18,7 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
@@ -413,7 +414,6 @@
 *://mizuhonokuni2ch.com/*
 *://mlb-jpnp-wadai.com/*
 *://moccosnoon.com/*
-*://mochidosukoi.blog.jp/*
 *://moe-vip.com/*
 *://moeasia.net/*
 *://moerunihon.blog.jp/*
@@ -442,6 +442,7 @@
 *://mylife.2chblog.jp/*
 *://na2ka4.blog.fc2.com/*
 *://nagooka.net/*
+*://nanahushi77.livedoor.blog/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*
 *://nanj-push.blog.jp/*
@@ -457,7 +458,6 @@
 *://nantuka.blog119.fc2.com/*
 *://nanyakoresokuhou.com/*
 *://naroumatome.com/*
-*://neetyutaka.blog.jp/*
 *://negisoku.com/*
 *://neko-news.blog.jp/*
 *://nekowan.com/*
@@ -552,7 +552,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -682,6 +681,7 @@
 *://umaumanews.com/*
 *://unhappywedd.blog34.fc2.com/*
 *://unitesoku.com/*
+*://unpocoooo.blog.jp/*
 *://usdjpy-fxyosou.blog.jp/*
 *://usi32.com/*
 *://uwakich.com/*
@@ -728,6 +728,7 @@
 *://xs278233.xsrv.jp/*
 *://xxxkikimimixxx.blog.fc2.com/*
 *://yabaibaiku.com/*
+*://yagov30.com/*
 *://yakiunoyakata.blog.jp/*
 *://yaku-plus.com/*
 *://yakyu-ban.blog.jp/*
