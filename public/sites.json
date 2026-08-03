@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T19:36:06.914Z",
+  "generatedAt": "2026-08-03T19:59:31.625Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -1290,7 +1290,6 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "newmatoan-posts",
         "nullpoantenna-blogs"
       ]
@@ -3564,7 +3563,8 @@
       "host": "matomeblade.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "5chmm-allpost"
       ]
     },
     {
@@ -3698,6 +3698,14 @@
         "2channeler-list",
         "moudamepo-list",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://mochidosukoi.blog.jp/",
+      "host": "mochidosukoi.blog.jp",
+      "firstSeenAt": "2026-08-03T19:59:31.625Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -3943,6 +3951,7 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "newmatoan-posts",
         "nwantenna-blogs"
       ]
