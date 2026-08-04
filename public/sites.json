@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:59:31.625Z",
+  "generatedAt": "2026-08-04T19:57:51.578Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -3946,12 +3946,19 @@
       ]
     },
     {
+      "url": "https://nanahushi77.livedoor.blog/",
+      "host": "nanahushi77.livedoor.blog",
+      "firstSeenAt": "2026-08-04T19:57:51.578Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://nandemo-uketori.com/",
       "host": "nandemo-uketori.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "newmatoan-posts",
         "nwantenna-blogs"
       ]
