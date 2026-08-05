@@ -415,7 +415,6 @@
 *://mizuhonokuni2ch.com/*
 *://mlb-jpnp-wadai.com/*
 *://moccosnoon.com/*
-*://mochidosukoi.blog.jp/*
 *://moe-vip.com/*
 *://moeasia.net/*
 *://moerunihon.blog.jp/*
@@ -444,7 +443,6 @@
 *://mylife.2chblog.jp/*
 *://na2ka4.blog.fc2.com/*
 *://nagooka.net/*
-*://nanahushi77.livedoor.blog/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*
 *://nanj-push.blog.jp/*
