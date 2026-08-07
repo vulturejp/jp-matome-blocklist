@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-08-05T19:56:10.433Z
+! Last modified: 2026-08-07T00:16:44.186Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -54,6 +54,7 @@
 ||aramame.net^
 ||arceus-sokuho.com^
 ||arugamama-soccer.com^
+||asanosousaku.blog.jp^
 ||asianoneta.blog.jp^
 ||asukyann.blog.jp^
 ||at-archives.com^
@@ -555,7 +556,6 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
-||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -631,6 +631,7 @@
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
+||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syakainews81.blog.jp^

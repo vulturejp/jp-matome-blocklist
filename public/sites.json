@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:56:10.433Z",
+  "generatedAt": "2026-08-07T00:16:44.186Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -257,6 +257,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -465,6 +466,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://asanosousaku.blog.jp/",
+      "host": "asanosousaku.blog.jp",
+      "firstSeenAt": "2026-08-07T00:16:44.186Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -1846,7 +1855,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2378,6 +2386,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -3562,8 +3571,7 @@
       "host": "matomeblade.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "5chmm-allpost"
+        "2ch-c-sites"
       ]
     },
     {
@@ -4518,7 +4526,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -4910,14 +4917,6 @@
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://raicomichan.com/",
-      "host": "raicomichan.com",
-      "firstSeenAt": "2026-08-02T19:36:06.914Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -5476,6 +5475,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -5580,6 +5580,14 @@
       "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://suzu-pepe.blog.jp/",
+      "host": "suzu-pepe.blog.jp",
+      "firstSeenAt": "2026-08-07T00:16:44.186Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -6123,7 +6131,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"

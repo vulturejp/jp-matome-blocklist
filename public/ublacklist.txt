@@ -51,6 +51,7 @@
 *://aramame.net/*
 *://arceus-sokuho.com/*
 *://arugamama-soccer.com/*
+*://asanosousaku.blog.jp/*
 *://asianoneta.blog.jp/*
 *://asukyann.blog.jp/*
 *://at-archives.com/*
@@ -552,7 +553,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -628,6 +628,7 @@
 *://suresuta.jp/*
 *://suropachi-line.com/*
 *://sutekinakijo.com/*
+*://suzu-pepe.blog.jp/*
 *://suzusoku.blog.jp/*
 *://switchsoku.com/*
 *://syakainews81.blog.jp/*
