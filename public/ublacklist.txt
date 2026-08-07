@@ -51,7 +51,6 @@
 *://aramame.net/*
 *://arceus-sokuho.com/*
 *://arugamama-soccer.com/*
-*://asanosousaku.blog.jp/*
 *://asianoneta.blog.jp/*
 *://asukyann.blog.jp/*
 *://at-archives.com/*
@@ -628,7 +627,6 @@
 *://suresuta.jp/*
 *://suropachi-line.com/*
 *://sutekinakijo.com/*
-*://suzu-pepe.blog.jp/*
 *://suzusoku.blog.jp/*
 *://switchsoku.com/*
 *://syakainews81.blog.jp/*
@@ -649,9 +647,11 @@
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
+*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
+*://torazirou7.doorblog.jp/*
 *://totalmatomedia.blog.fc2.com/*
 *://totalwar.doorblog.jp/*
 *://toushichannel.net/*

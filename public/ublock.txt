@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-08-07T00:16:44.186Z
+! Last modified: 2026-08-07T19:16:55.057Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -55,7 +55,6 @@
 ||aramame.net^
 ||arceus-sokuho.com^
 ||arugamama-soccer.com^
-||asanosousaku.blog.jp^
 ||asianoneta.blog.jp^
 ||asukyann.blog.jp^
 ||at-archives.com^
@@ -632,7 +631,6 @@
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
-||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syakainews81.blog.jp^
@@ -653,9 +651,11 @@
 ||thainokoe.com^
 ||tiugoku2nd.blog.jp^
 ||toku-log.com^
+||tokunaga-manga.blog.jp^
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^
+||torazirou7.doorblog.jp^
 ||totalmatomedia.blog.fc2.com^
 ||totalwar.doorblog.jp^
 ||toushichannel.net^
