@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-08-07T19:16:55.057Z
+! Last modified: 2026-08-08T18:59:36.021Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -23,6 +23,7 @@
 ||aatyu.livedoor.blog^
 ||abroadch.com^
 ||agemasen.com^
+||aichannell.blog.jp^
 ||airlinehonpo.blog.fc2.com^
 ||akankore.doorblog.jp^
 ||akb48matomemory.com^
@@ -655,7 +656,6 @@
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^
-||torazirou7.doorblog.jp^
 ||totalmatomedia.blog.fc2.com^
 ||totalwar.doorblog.jp^
 ||toushichannel.net^

@@ -19,6 +19,7 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
@@ -651,7 +652,6 @@
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
-*://torazirou7.doorblog.jp/*
 *://totalmatomedia.blog.fc2.com/*
 *://totalwar.doorblog.jp/*
 *://toushichannel.net/*
