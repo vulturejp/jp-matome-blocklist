@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T18:59:36.021Z",
+  "generatedAt": "2026-08-09T19:01:45.070Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -179,14 +179,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://aichannell.blog.jp/",
-      "host": "aichannell.blog.jp",
-      "firstSeenAt": "2026-08-08T18:59:36.021Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -4921,6 +4913,14 @@
       ]
     },
     {
+      "url": "https://raicomichan.com/",
+      "host": "raicomichan.com",
+      "firstSeenAt": "2026-08-09T19:01:45.070Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "http://ramen2ch.com/",
       "host": "ramen2ch.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -6131,6 +6131,7 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
