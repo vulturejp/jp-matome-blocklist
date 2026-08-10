@@ -19,6 +19,7 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
@@ -552,7 +553,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -648,7 +648,6 @@
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
-*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*

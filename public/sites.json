@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T19:01:45.070Z",
+  "generatedAt": "2026-08-10T19:17:46.584Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -179,6 +179,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://aichannell.blog.jp/",
+      "host": "aichannell.blog.jp",
+      "firstSeenAt": "2026-08-10T19:17:46.584Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -1835,6 +1843,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -3942,7 +3951,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "newmatoan-posts",
         "nwantenna-blogs"
       ]
@@ -4913,14 +4921,6 @@
       ]
     },
     {
-      "url": "https://raicomichan.com/",
-      "host": "raicomichan.com",
-      "firstSeenAt": "2026-08-09T19:01:45.070Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://ramen2ch.com/",
       "host": "ramen2ch.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -5757,14 +5757,6 @@
       ]
     },
     {
-      "url": "https://tokunaga-manga.blog.jp/",
-      "host": "tokunaga-manga.blog.jp",
-      "firstSeenAt": "2026-08-07T19:16:55.057Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://toppogi-news.com/",
       "host": "toppogi-news.com",
       "firstSeenAt": "2026-07-12T19:32:55.866Z",
@@ -6131,7 +6123,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
