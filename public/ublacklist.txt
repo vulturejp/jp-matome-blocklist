@@ -553,6 +553,7 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
+*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -622,7 +623,6 @@
 *://ssbiyori.blog.fc2.com/*
 *://ssimas72.blog.jp/*
 *://subculturejunkie.com/*
-*://sugaaanuma.livedoor.blog/*
 *://sukattojapan.com/*
 *://sukina-news.com/*
 *://sumaburayasan.com/*
