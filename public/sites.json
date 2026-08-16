@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T18:48:02.881Z",
+  "generatedAt": "2026-08-16T18:48:01.829Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -1835,7 +1835,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -1847,7 +1846,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2316,6 +2314,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3107,14 +3106,6 @@
       ]
     },
     {
-      "url": "https://konatakona.blog.jp/",
-      "host": "konatakona.blog.jp",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://konkatsuchan.doorblog.jp/",
       "host": "konkatsuchan.doorblog.jp",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
@@ -3572,7 +3563,8 @@
       "host": "matomeblade.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "5chmm-allpost"
       ]
     },
     {
@@ -5773,6 +5765,14 @@
       ]
     },
     {
+      "url": "https://tokunaga-manga.blog.jp/",
+      "host": "tokunaga-manga.blog.jp",
+      "firstSeenAt": "2026-08-16T18:48:01.829Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://toppogi-news.com/",
       "host": "toppogi-news.com",
       "firstSeenAt": "2026-07-12T19:32:55.866Z",
@@ -6119,7 +6119,6 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]

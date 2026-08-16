@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-08-15T18:48:02.881Z
+! Last modified: 2026-08-16T18:48:01.829Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -351,7 +351,6 @@
 ||kokopyon.net^
 ||kokuani.blog.jp^
 ||kokunanmonomousu.com^
-||konatakona.blog.jp^
 ||konkatsuchan.doorblog.jp^
 ||konkatu-kekkon.blog.jp^
 ||konnanewsnidekuwashita.com^
@@ -653,6 +652,7 @@
 ||thainokoe.com^
 ||tiugoku2nd.blog.jp^
 ||toku-log.com^
+||tokunaga-manga.blog.jp^
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^

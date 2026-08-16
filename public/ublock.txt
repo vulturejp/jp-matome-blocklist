@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-08-15T18:48:02.881Z
+! Last modified: 2026-08-16T18:48:01.829Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -352,7 +352,6 @@
 ||kokopyon.net^
 ||kokuani.blog.jp^
 ||kokunanmonomousu.com^
-||konatakona.blog.jp^
 ||konkatsuchan.doorblog.jp^
 ||konkatu-kekkon.blog.jp^
 ||konnanewsnidekuwashita.com^
@@ -654,6 +653,7 @@
 ||thainokoe.com^
 ||tiugoku2nd.blog.jp^
 ||toku-log.com^
+||tokunaga-manga.blog.jp^
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^

@@ -348,7 +348,6 @@
 *://kokopyon.net/*
 *://kokuani.blog.jp/*
 *://kokunanmonomousu.com/*
-*://konatakona.blog.jp/*
 *://konkatsuchan.doorblog.jp/*
 *://konkatu-kekkon.blog.jp/*
 *://konnanewsnidekuwashita.com/*
@@ -650,6 +649,7 @@
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
+*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
