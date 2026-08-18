@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:58:15.768Z",
+  "generatedAt": "2026-08-18T18:57:37.600Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -32,14 +32,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://2ch-market-report-broadcast.doorblog.jp/",
-      "host": "2ch-market-report-broadcast.doorblog.jp",
-      "firstSeenAt": "2026-07-29T19:45:07.341Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -179,14 +171,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://aichannell.blog.jp/",
-      "host": "aichannell.blog.jp",
-      "firstSeenAt": "2026-08-17T18:58:15.768Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -2386,7 +2370,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -3221,14 +3204,6 @@
         "2channeler-list",
         "moudamepo-list",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://kumachopper34.blog.jp/",
-      "host": "kumachopper34.blog.jp",
-      "firstSeenAt": "2026-08-15T18:48:02.881Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -5538,6 +5513,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://sugaaanuma.livedoor.blog/",
+      "host": "sugaaanuma.livedoor.blog",
+      "firstSeenAt": "2026-08-18T18:57:37.600Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
