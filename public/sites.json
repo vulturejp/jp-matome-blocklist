@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T18:57:37.600Z",
+  "generatedAt": "2026-08-19T18:54:23.168Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -171,6 +171,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://aichannell.blog.jp/",
+      "host": "aichannell.blog.jp",
+      "firstSeenAt": "2026-08-19T18:54:23.168Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -1838,7 +1846,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2370,6 +2377,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -3929,12 +3937,19 @@
       ]
     },
     {
+      "url": "https://nanahushi77.livedoor.blog/",
+      "host": "nanahushi77.livedoor.blog",
+      "firstSeenAt": "2026-08-19T18:54:23.168Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://nandemo-uketori.com/",
       "host": "nandemo-uketori.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "newmatoan-posts",
         "nwantenna-blogs"
       ]
@@ -4181,6 +4196,14 @@
       "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://news23vip.livedoor.blog/",
+      "host": "news23vip.livedoor.blog",
+      "firstSeenAt": "2026-08-19T18:54:23.168Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -4905,6 +4928,14 @@
       ]
     },
     {
+      "url": "https://raicomichan.com/",
+      "host": "raicomichan.com",
+      "firstSeenAt": "2026-08-19T18:54:23.168Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "http://ramen2ch.com/",
       "host": "ramen2ch.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -5516,14 +5547,6 @@
       ]
     },
     {
-      "url": "https://sugaaanuma.livedoor.blog/",
-      "host": "sugaaanuma.livedoor.blog",
-      "firstSeenAt": "2026-08-18T18:57:37.600Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://sukattojapan.com/",
       "host": "sukattojapan.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -6064,6 +6087,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
