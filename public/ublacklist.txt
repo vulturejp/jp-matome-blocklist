@@ -18,6 +18,7 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
@@ -347,7 +348,6 @@
 *://kokopyon.net/*
 *://kokuani.blog.jp/*
 *://kokunanmonomousu.com/*
-*://konatakona.blog.jp/*
 *://konkatsuchan.doorblog.jp/*
 *://konkatu-kekkon.blog.jp/*
 *://konnanewsnidekuwashita.com/*
@@ -442,7 +442,6 @@
 *://mylife.2chblog.jp/*
 *://na2ka4.blog.fc2.com/*
 *://nagooka.net/*
-*://nanahushi77.livedoor.blog/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*
 *://nanj-push.blog.jp/*
@@ -649,7 +648,6 @@
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
-*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
