@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-08-21T18:57:16.371Z
+! Last modified: 2026-08-22T18:49:49.709Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -22,7 +22,6 @@
 ||aatyu.livedoor.blog^
 ||abroadch.com^
 ||agemasen.com^
-||aichannell.blog.jp^
 ||airlinehonpo.blog.fc2.com^
 ||akankore.doorblog.jp^
 ||akb48matomemory.com^
@@ -330,6 +329,7 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
+||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -352,6 +352,7 @@
 ||kokopyon.net^
 ||kokuani.blog.jp^
 ||kokunanmonomousu.com^
+||konatakona.blog.jp^
 ||konkatsuchan.doorblog.jp^
 ||konkatu-kekkon.blog.jp^
 ||konnanewsnidekuwashita.com^
@@ -446,6 +447,7 @@
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
 ||nagooka.net^
+||nanahushi77.livedoor.blog^
 ||nandemo-uketori.com^
 ||nanj-mangabu.com^
 ||nanj-push.blog.jp^
@@ -556,7 +558,6 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
-||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -626,6 +627,7 @@
 ||ssbiyori.blog.fc2.com^
 ||ssimas72.blog.jp^
 ||subculturejunkie.com^
+||sugaaanuma.livedoor.blog^
 ||sukattojapan.com^
 ||sukina-news.com^
 ||sumaburayasan.com^
