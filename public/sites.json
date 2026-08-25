@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:00:33.136Z",
+  "generatedAt": "2026-08-25T18:58:15.702Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -171,6 +171,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://aichannell.blog.jp/",
+      "host": "aichannell.blog.jp",
+      "firstSeenAt": "2026-08-25T18:58:15.702Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -2118,14 +2126,6 @@
       ]
     },
     {
-      "url": "https://heyheyheyko.blog.jp/",
-      "host": "heyheyheyko.blog.jp",
-      "firstSeenAt": "2026-07-28T19:54:06.388Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://highfashionmens.com/",
       "host": "highfashionmens.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -2913,6 +2913,14 @@
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://kijoume.blog.jp/",
+      "host": "kijoume.blog.jp",
+      "firstSeenAt": "2026-08-25T18:58:15.702Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -4926,14 +4934,6 @@
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://raicomichan.com/",
-      "host": "raicomichan.com",
-      "firstSeenAt": "2026-08-24T19:00:33.136Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
