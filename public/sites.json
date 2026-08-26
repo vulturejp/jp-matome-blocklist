@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:58:15.702Z",
+  "generatedAt": "2026-08-26T20:03:37.947Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -171,14 +171,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://aichannell.blog.jp/",
-      "host": "aichannell.blog.jp",
-      "firstSeenAt": "2026-08-25T18:58:15.702Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -2126,6 +2118,14 @@
       ]
     },
     {
+      "url": "https://heyheyheyko.blog.jp/",
+      "host": "heyheyheyko.blog.jp",
+      "firstSeenAt": "2026-08-26T20:03:37.947Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://highfashionmens.com/",
       "host": "highfashionmens.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -2307,6 +2307,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2913,14 +2914,6 @@
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://kijoume.blog.jp/",
-      "host": "kijoume.blog.jp",
-      "firstSeenAt": "2026-08-25T18:58:15.702Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -3958,7 +3951,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "newmatoan-posts",
         "nwantenna-blogs"
       ]
@@ -4085,6 +4077,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://neetyutaka.blog.jp/",
+      "host": "neetyutaka.blog.jp",
+      "firstSeenAt": "2026-08-26T20:03:37.947Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -4934,6 +4934,14 @@
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://raicomichan.com/",
+      "host": "raicomichan.com",
+      "firstSeenAt": "2026-08-26T20:03:37.947Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
