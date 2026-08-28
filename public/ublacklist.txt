@@ -18,6 +18,7 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
@@ -388,7 +389,6 @@
 *://manpukunews.blog.jp/*
 *://marasoku.info/*
 *://maru-sensor.com/*
-*://marugoshideka.blog.jp/*
 *://maruhorror.com/*
 *://marutoo.com/*
 *://mashlife.doorblog.jp/*
@@ -459,7 +459,6 @@
 *://nantuka.blog119.fc2.com/*
 *://nanyakoresokuhou.com/*
 *://naroumatome.com/*
-*://neetyutaka.blog.jp/*
 *://negisoku.com/*
 *://neko-news.blog.jp/*
 *://nekowan.com/*
@@ -555,7 +554,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -631,6 +629,7 @@
 *://suresuta.jp/*
 *://suropachi-line.com/*
 *://sutekinakijo.com/*
+*://suzu-pepe.blog.jp/*
 *://suzusoku.blog.jp/*
 *://switchsoku.com/*
 *://syakainews81.blog.jp/*
