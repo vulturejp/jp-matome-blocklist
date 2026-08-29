@@ -415,7 +415,6 @@
 *://mizuhonokuni2ch.com/*
 *://mlb-jpnp-wadai.com/*
 *://moccosnoon.com/*
-*://mochidosukoi.blog.jp/*
 *://moe-vip.com/*
 *://moeasia.net/*
 *://moerunihon.blog.jp/*
@@ -555,6 +554,7 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
+*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -624,14 +624,12 @@
 *://ssbiyori.blog.fc2.com/*
 *://ssimas72.blog.jp/*
 *://subculturejunkie.com/*
-*://sugaaanuma.livedoor.blog/*
 *://sukattojapan.com/*
 *://sukina-news.com/*
 *://sumaburayasan.com/*
 *://suresuta.jp/*
 *://suropachi-line.com/*
 *://sutekinakijo.com/*
-*://suzu-pepe.blog.jp/*
 *://suzusoku.blog.jp/*
 *://switchsoku.com/*
 *://syakainews81.blog.jp/*
@@ -685,6 +683,7 @@
 *://umaumanews.com/*
 *://unhappywedd.blog34.fc2.com/*
 *://unitesoku.com/*
+*://unpocoooo.blog.jp/*
 *://usdjpy-fxyosou.blog.jp/*
 *://usi32.com/*
 *://uwakich.com/*
