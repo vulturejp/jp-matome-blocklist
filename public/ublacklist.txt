@@ -18,6 +18,7 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
@@ -167,6 +168,7 @@
 *://footdoga.weblog.to/*
 *://fresta-memories.com/*
 *://fromdistant.blog.jp/*
+*://furosiki.blog.jp/*
 *://fx2ch.net/*
 *://fxya.blog129.fc2.com/*
 *://g-soku.blog.jp/*
@@ -554,7 +556,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
