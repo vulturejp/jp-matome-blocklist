@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T21:08:09.079Z",
+  "generatedAt": "2026-08-31T22:52:23.161Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -171,14 +171,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://aichannell.blog.jp/",
-      "host": "aichannell.blog.jp",
-      "firstSeenAt": "2026-08-30T21:08:09.079Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -1503,14 +1495,6 @@
       ]
     },
     {
-      "url": "https://furosiki.blog.jp/",
-      "host": "furosiki.blog.jp",
-      "firstSeenAt": "2026-08-30T21:08:09.079Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://fx2ch.net/",
       "host": "fx2ch.net",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -1854,6 +1838,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2049,8 +2034,7 @@
       "host": "hatarakuhijoshiki.livedoor.blog",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "5chmm-allpost"
+        "2ch-c-sites"
       ]
     },
     {
@@ -3953,14 +3937,6 @@
       ]
     },
     {
-      "url": "https://nanahushi77.livedoor.blog/",
-      "host": "nanahushi77.livedoor.blog",
-      "firstSeenAt": "2026-08-22T18:49:49.709Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://nandemo-uketori.com/",
       "host": "nandemo-uketori.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
@@ -4943,6 +4919,14 @@
       ]
     },
     {
+      "url": "https://raicomichan.com/",
+      "host": "raicomichan.com",
+      "firstSeenAt": "2026-08-31T22:52:23.161Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "http://ramen2ch.com/",
       "host": "ramen2ch.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -5498,6 +5482,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -5602,6 +5587,14 @@
       "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://suzu-pepe.blog.jp/",
+      "host": "suzu-pepe.blog.jp",
+      "firstSeenAt": "2026-08-31T22:52:23.161Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -6491,14 +6484,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://yagov30.com/",
-      "host": "yagov30.com",
-      "firstSeenAt": "2026-08-15T18:48:02.881Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
