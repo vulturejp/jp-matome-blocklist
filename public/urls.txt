@@ -138,7 +138,6 @@ https://dsarada.com/
 https://duellinks.doorblog.jp/
 https://e-jansokuhou.com/
 http://ebitsu.net/
-https://efire-matome.com/
 https://eigotoka.com/
 https://elephant.2chblog.jp/
 https://esoku-rakuteneagles.net/
@@ -301,7 +300,7 @@ https://kancolle.doorblog.jp/
 https://kandatasokuho.com/
 https://kandonippon.com/
 https://kankeinai.blog.jp/
-http://kankokunews.net/
+https://kankokunews.net/
 http://kankokunohannou.org/
 https://kannyu.blog.jp/
 https://karukantimes.com/
@@ -482,7 +481,6 @@ https://nichij-fushig.com/
 http://nichijoukei.com/
 http://nihonjinnanmin.com/
 https://nihonnonews.blog.jp/
-https://nijihorosokuvtubermatome.com/
 https://nijisanjinews.jp/
 https://nijitoraware.com/
 https://ningame-news.com/
@@ -700,7 +698,6 @@ https://vtuber-matome-media.com/
 https://vtuber-matomeblog.com/
 https://vtuber-matomeruyon.blog.jp/
 https://vtuber-station.jp/
-https://vtubermatomeite.com/
 https://vtubermatomerevival.com/
 https://vtubernews.jp/
 https://wa-supo.com/
@@ -718,7 +715,6 @@ http://world-fusigi.net/
 https://world-soccer-fan.com/
 https://world-study.jp/
 https://worldfn.net/
-https://worldreactionaniman.com/
 https://worldreport8.com/
 https://worldsoccerch.com/
 https://www2.bikechannel.info/

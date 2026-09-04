@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-09-03T21:03:40.826Z
+! Last modified: 2026-09-04T20:46:54.945Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -142,7 +142,6 @@
 ||duellinks.doorblog.jp^
 ||e-jansokuhou.com^
 ||ebitsu.net^
-||efire-matome.com^
 ||eigotoka.com^
 ||elephant.2chblog.jp^
 ||esoku-rakuteneagles.net^
@@ -486,7 +485,6 @@
 ||nichijoukei.com^
 ||nihonjinnanmin.com^
 ||nihonnonews.blog.jp^
-||nijihorosokuvtubermatome.com^
 ||nijisanjinews.jp^
 ||nijitoraware.com^
 ||ningame-news.com^
@@ -704,7 +702,6 @@
 ||vtuber-matomeblog.com^
 ||vtuber-matomeruyon.blog.jp^
 ||vtuber-station.jp^
-||vtubermatomeite.com^
 ||vtubermatomerevival.com^
 ||vtubernews.jp^
 ||wa-supo.com^
@@ -722,7 +719,6 @@
 ||world-soccer-fan.com^
 ||world-study.jp^
 ||worldfn.net^
-||worldreactionaniman.com^
 ||worldreport8.com^
 ||worldsoccerch.com^
 ||www2.bikechannel.info^

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:03:40.826Z",
+  "generatedAt": "2026-09-04T20:46:54.945Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -1232,14 +1232,6 @@
       "sources": [
         "nullpoantenna-blogs",
         "nwantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://efire-matome.com/",
-      "host": "efire-matome.com",
-      "firstSeenAt": "2026-06-14T10:19:44.880Z",
-      "sources": [
-        "moudamepo-list"
       ]
     },
     {
@@ -2698,7 +2690,7 @@
       ]
     },
     {
-      "url": "http://kankokunews.net/",
+      "url": "https://kankokunews.net/",
       "host": "kankokunews.net",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
@@ -4274,14 +4266,6 @@
       "sources": [
         "nwantenna-blogs",
         "wadaiantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://nijihorosokuvtubermatome.com/",
-      "host": "nijihorosokuvtubermatome.com",
-      "firstSeenAt": "2026-06-14T10:19:44.880Z",
-      "sources": [
-        "moudamepo-list"
       ]
     },
     {
@@ -6225,14 +6209,6 @@
       ]
     },
     {
-      "url": "https://vtubermatomeite.com/",
-      "host": "vtubermatomeite.com",
-      "firstSeenAt": "2026-06-14T10:19:44.880Z",
-      "sources": [
-        "moudamepo-list"
-      ]
-    },
-    {
       "url": "https://vtubermatomerevival.com/",
       "host": "vtubermatomerevival.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -6384,14 +6360,6 @@
       "sources": [
         "moudamepo-list",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://worldreactionaniman.com/",
-      "host": "worldreactionaniman.com",
-      "firstSeenAt": "2026-06-14T10:19:44.880Z",
-      "sources": [
-        "moudamepo-list"
       ]
     },
     {
