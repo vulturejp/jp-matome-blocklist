@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:46:54.945Z",
+  "generatedAt": "2026-09-05T20:22:48.587Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -970,6 +970,14 @@
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://cinderellagirls.jp/",
+      "host": "cinderellagirls.jp",
+      "firstSeenAt": "2026-09-05T20:22:48.587Z",
+      "sources": [
+        "nwantenna-blogs"
       ]
     },
     {
@@ -4471,6 +4479,14 @@
         "2channeler-list",
         "5chmm-allpost",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://okashinahitobito.net/",
+      "host": "okashinahitobito.net",
+      "firstSeenAt": "2026-09-05T20:22:48.587Z",
+      "sources": [
+        "nwantenna-blogs"
       ]
     },
     {

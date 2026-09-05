@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-09-04T20:46:54.945Z
+! Last modified: 2026-09-05T20:22:48.587Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -112,6 +112,7 @@
 ||chomagireko.blog.jp^
 ||chomangasokuho.blog.jp^
 ||chudoku200.blog66.fc2.com^
+||cinderellagirls.jp^
 ||claudeworld.net^
 ||coffeehonyaku.blogspot.com^
 ||coolpan.net^
@@ -508,6 +509,7 @@
 ||oekaki-navi.blog.jp^
 ||ohkashi.com^
 ||oishiimatome.com^
+||okashinahitobito.net^
 ||okusama-kijyo.com^
 ||onecall2ch.com^
 ||onepiece-matomech.blog.jp^
