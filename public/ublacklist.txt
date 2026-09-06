@@ -138,6 +138,7 @@
 *://dsarada.com/*
 *://duellinks.doorblog.jp/*
 *://e-jansokuhou.com/*
+*://eaglessoku.com/*
 *://ebitsu.net/*
 *://eigotoka.com/*
 *://elephant.2chblog.jp/*

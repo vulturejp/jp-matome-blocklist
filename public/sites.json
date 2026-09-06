@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T20:22:48.587Z",
+  "generatedAt": "2026-09-06T20:25:50.506Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -1229,6 +1229,14 @@
       "url": "https://e-jansokuhou.com/",
       "host": "e-jansokuhou.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
+      "sources": [
+        "nwantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://eaglessoku.com/",
+      "host": "eaglessoku.com",
+      "firstSeenAt": "2026-09-06T20:25:50.506Z",
       "sources": [
         "nwantenna-blogs"
       ]
