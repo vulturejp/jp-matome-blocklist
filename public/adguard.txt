@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-09-13T20:51:53.758Z
+! Last modified: 2026-09-14T21:51:00.203Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -185,7 +185,6 @@
 ||gameimpression.doorblog.jp^
 ||gamejksokuhou.com^
 ||gameleaks.org^
-||gamerenpou.jp^
 ||gamers7.com^
 ||gametopic-ch.com^
 ||gamingmatome1.blog.jp^
@@ -312,7 +311,6 @@
 ||kasemato.net^
 ||katasumisokuhou.blog.jp^
 ||kazokuchannel.doorblog.jp^
-||keiba-umanami.com^
 ||keibaromantei.com^
 ||keizai4567.blog.jp^
 ||kekkon-souken.com^
@@ -417,7 +415,6 @@
 ||minna-shitteta.com^
 ||mirishita.2chblog.jp^
 ||mizuhonokuni2ch.com^
-||mlb-jpnp-wadai.com^
 ||moccosnoon.com^
 ||moe-vip.com^
 ||moeasia.net^
@@ -443,6 +440,7 @@
 ||mudasure.com^
 ||muryou-tanoshimu.com^
 ||mutyun.com^
+||muvluvgg.blog.jp^
 ||mykeibamemory.blog.fc2.com^
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
@@ -503,7 +501,6 @@
 ||norisoku.com^
 ||nwknews.jp^
 ||nyankosokuho.com^
-||ocalt.blog.jp^
 ||ocsoku.com^
 ||oddzipang.com^
 ||oekaki-navi.blog.jp^
@@ -636,7 +633,6 @@
 ||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
-||syakainews81.blog.jp^
 ||syurabahazard.com^
 ||syurabarabanba.blog.jp^
 ||syuramama.com^

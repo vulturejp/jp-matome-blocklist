@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:51:53.758Z",
+  "generatedAt": "2026-09-14T21:51:00.203Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -1385,7 +1385,6 @@
       "host": "fgonovum.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
-        "nwantenna-blogs",
         "wadaiantenna-blogs"
       ]
     },
@@ -1628,14 +1627,6 @@
       "sources": [
         "2channeler-list",
         "moudamepo-list"
-      ]
-    },
-    {
-      "url": "https://gamerenpou.jp/",
-      "host": "gamerenpou.jp",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "nwantenna-blogs"
       ]
     },
     {
@@ -2771,14 +2762,6 @@
       ]
     },
     {
-      "url": "https://keiba-umanami.com/",
-      "host": "keiba-umanami.com",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "nwantenna-blogs"
-      ]
-    },
-    {
       "url": "https://keibaromantei.com/",
       "host": "keibaromantei.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -2964,7 +2947,6 @@
       "host": "kimamagamematomemo.blog.jp",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
-        "nwantenna-blogs",
         "wadaiantenna-blogs"
       ]
     },
@@ -3691,14 +3673,6 @@
       ]
     },
     {
-      "url": "https://mlb-jpnp-wadai.com/",
-      "host": "mlb-jpnp-wadai.com",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "nwantenna-blogs"
-      ]
-    },
-    {
       "url": "https://moccosnoon.com/",
       "host": "moccosnoon.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -3911,6 +3885,14 @@
         "2channeler-list",
         "moudamepo-list",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://muvluvgg.blog.jp/",
+      "host": "muvluvgg.blog.jp",
+      "firstSeenAt": "2026-09-14T21:51:00.203Z",
+      "sources": [
+        "nwantenna-blogs"
       ]
     },
     {
@@ -4435,14 +4417,6 @@
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://ocalt.blog.jp/",
-      "host": "ocalt.blog.jp",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "nwantenna-blogs"
       ]
     },
     {
@@ -5436,7 +5410,6 @@
       "host": "soccer-pride.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
-        "nwantenna-blogs",
         "wadaiantenna-blogs"
       ]
     },
@@ -5623,14 +5596,6 @@
       "sources": [
         "2ch-c-sites",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://syakainews81.blog.jp/",
-      "host": "syakainews81.blog.jp",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "nwantenna-blogs"
       ]
     },
     {
