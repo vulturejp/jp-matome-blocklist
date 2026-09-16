@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T21:22:53.776Z",
+  "generatedAt": "2026-09-16T21:19:39.302Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -5121,6 +5121,14 @@
         "2channeler-list",
         "moudamepo-list",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://scoop-news-flash.com/",
+      "host": "scoop-news-flash.com",
+      "firstSeenAt": "2026-09-16T21:19:39.302Z",
+      "sources": [
+        "nwantenna-blogs"
       ]
     },
     {
