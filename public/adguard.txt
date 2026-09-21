@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-09-20T20:50:59.786Z
+! Last modified: 2026-09-21T21:59:33.381Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
