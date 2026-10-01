@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T22:17:44.464Z",
+  "generatedAt": "2026-10-01T22:42:41.583Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -1856,6 +1856,14 @@
       "sources": [
         "2channeler-list",
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://goldennews.blog.jp/",
+      "host": "goldennews.blog.jp",
+      "firstSeenAt": "2026-10-01T22:42:41.583Z",
+      "sources": [
+        "nullpoantenna-blogs"
       ]
     },
     {
