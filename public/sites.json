@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:22:20.867Z",
+  "generatedAt": "2026-10-09T22:40:15.996Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -821,8 +821,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "moudamepo-list",
-        "nullpoantenna-blogs"
+        "moudamepo-list"
       ]
     },
     {
@@ -6382,8 +6381,7 @@
       "host": "worldsoccerch.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
-        "moudamepo-list",
-        "nullpoantenna-blogs"
+        "moudamepo-list"
       ]
     },
     {
