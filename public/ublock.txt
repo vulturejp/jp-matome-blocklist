@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-10-11T21:59:41.940Z
+! Last modified: 2026-10-13T00:42:55.365Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -47,6 +47,7 @@
 ||animanch.com^
 ||anime.logu.jp^
 ||animereact.hatenablog.com^
+||animesoku.com^
 ||anitubu.com^
 ||aobatushin-kankore.doorblog.jp^
 ||apexheadline.com^
@@ -54,6 +55,7 @@
 ||aramame.net^
 ||arceus-sokuho.com^
 ||arugamama-soccer.com^
+||asanosousaku.blog.jp^
 ||asianoneta.blog.jp^
 ||asukyann.blog.jp^
 ||at-archives.com^
@@ -204,6 +206,7 @@
 ||geolog-book.com^
 ||getgossip24.blog.jp^
 ||gfoodd.com^
+||gia-chan.com^
 ||giants-news-sokuhou.com^
 ||giants-news.com^
 ||ginjimasu.blog.jp^
@@ -418,6 +421,7 @@
 ||mirishita.2chblog.jp^
 ||mizuhonokuni2ch.com^
 ||moccosnoon.com^
+||mochidosukoi.blog.jp^
 ||moe-vip.com^
 ||moeasia.net^
 ||moerunihon.blog.jp^
@@ -535,6 +539,7 @@
 ||outdoormatome.com^
 ||overjoyed.info^
 ||overseasresponse.com^
+||oyasan-place.blog.jp^
 ||pachinkopachisro.com^
 ||pachislotzone.com^
 ||pandora11.com^
@@ -731,6 +736,7 @@
 ||xs278233.xsrv.jp^
 ||xxxkikimimixxx.blog.fc2.com^
 ||yabaibaiku.com^
+||yagov30.com^
 ||yakiunoyakata.blog.jp^
 ||yaku-plus.com^
 ||yakyu-ban.blog.jp^
