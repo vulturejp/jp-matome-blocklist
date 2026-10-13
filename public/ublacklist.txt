@@ -241,7 +241,6 @@
 *://henshin-hero.com/*
 *://hero-news.com/*
 *://hetare7days.blog.fc2.com/*
-*://heyheyheyko.blog.jp/*
 *://highfashionmens.com/*
 *://himasoku.com/*
 *://himayomi.com/*
@@ -343,6 +342,7 @@
 *://kintore2018.blog.jp/*
 *://kiramohu.com/*
 *://kisslog2.com/*
+*://kitamuramichi.blog.jp/*
 *://kitatouhoku-news.blog.jp/*
 *://kitimama-matome.net/*
 *://kitimonogatari.com/*
@@ -385,6 +385,7 @@
 *://majikichi.com/*
 *://manga-to-anime.net/*
 *://manga.itsys-tech.com/*
+*://manga1.jp/*
 *://mangama.blog.jp/*
 *://mangasokuhou.com/*
 *://mania-of-football.com/*
@@ -417,7 +418,6 @@
 *://mirishita.2chblog.jp/*
 *://mizuhonokuni2ch.com/*
 *://moccosnoon.com/*
-*://mochidosukoi.blog.jp/*
 *://moe-vip.com/*
 *://moeasia.net/*
 *://moerunihon.blog.jp/*
@@ -687,7 +687,6 @@
 *://umaumanews.com/*
 *://unhappywedd.blog34.fc2.com/*
 *://unitesoku.com/*
-*://unpocoooo.blog.jp/*
 *://usdjpy-fxyosou.blog.jp/*
 *://usi32.com/*
 *://uwakich.com/*
