@@ -51,7 +51,6 @@
 *://aramame.net/*
 *://arceus-sokuho.com/*
 *://arugamama-soccer.com/*
-*://asanosousaku.blog.jp/*
 *://asianoneta.blog.jp/*
 *://asukyann.blog.jp/*
 *://at-archives.com/*
@@ -268,6 +267,7 @@
 *://imimemo.com/*
 *://inazumanews2.com/*
 *://incident-wo.com/*
+*://indosou.doorblog.jp/*
 *://inutomo11.com/*
 *://itainews.com/*
 *://itaishinja.com/*
@@ -438,7 +438,6 @@
 *://movieeturan.blog.jp/*
 *://movient.net/*
 *://moyugenn.com/*
-*://mudainodocument.com/*
 *://mudasure.com/*
 *://muryou-tanoshimu.com/*
 *://mutyun.com/*
@@ -446,6 +445,7 @@
 *://mykeibamemory.blog.fc2.com/*
 *://mylife.2chblog.jp/*
 *://na2ka4.blog.fc2.com/*
+*://naekumasakura.blog.jp/*
 *://nagooka.net/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*
@@ -557,7 +557,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -603,6 +602,7 @@
 *://shitsumon-aru.net/*
 *://shitsumonaru.com/*
 *://shouginews.blog.jp/*
+*://shoyusui.blog.jp/*
 *://shuraba-matome.com/*
 *://sinemanomatome.com/*
 *://sisitama.blog.jp/*
@@ -634,7 +634,6 @@
 *://suresuta.jp/*
 *://suropachi-line.com/*
 *://sutekinakijo.com/*
-*://suzu-pepe.blog.jp/*
 *://suzusoku.blog.jp/*
 *://switchsoku.com/*
 *://syurabahazard.com/*
@@ -654,6 +653,7 @@
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
+*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
@@ -687,6 +687,7 @@
 *://umaumanews.com/*
 *://unhappywedd.blog34.fc2.com/*
 *://unitesoku.com/*
+*://unpocoooo.blog.jp/*
 *://usdjpy-fxyosou.blog.jp/*
 *://usi32.com/*
 *://uwakich.com/*

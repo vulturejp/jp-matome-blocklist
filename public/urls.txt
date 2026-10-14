@@ -51,7 +51,6 @@ http://aqours-wave.ldblog.jp/
 http://aramame.net/
 https://arceus-sokuho.com/
 https://arugamama-soccer.com/
-https://asanosousaku.blog.jp/
 https://asianoneta.blog.jp/
 https://asukyann.blog.jp/
 https://at-archives.com/
@@ -268,6 +267,7 @@ https://imihu.net/
 https://imimemo.com/
 http://inazumanews2.com/
 https://incident-wo.com/
+https://indosou.doorblog.jp/
 https://inutomo11.com/
 https://itainews.com/
 https://itaishinja.com/
@@ -438,7 +438,6 @@ https://movie9820.com/
 http://movieeturan.blog.jp/
 http://movient.net/
 http://moyugenn.com/
-https://mudainodocument.com/
 https://mudasure.com/
 https://muryou-tanoshimu.com/
 https://mutyun.com/
@@ -446,6 +445,7 @@ https://muvluvgg.blog.jp/
 http://mykeibamemory.blog.fc2.com/
 http://mylife.2chblog.jp/
 http://na2ka4.blog.fc2.com/
+https://naekumasakura.blog.jp/
 https://nagooka.net/
 https://nandemo-uketori.com/
 http://nanj-mangabu.com/
@@ -557,7 +557,6 @@ https://precurematome.com/
 https://prizzm.net/
 https://punpunpunta.livedoor.blog/
 https://rabitsokuhou.2chblog.jp/
-https://raicomichan.com/
 http://ramen2ch.com/
 https://red4-kaigaimatome.com/
 https://reddit-matome.com/
@@ -603,6 +602,7 @@ https://shiritimes.net/
 http://shitsumon-aru.net/
 https://shitsumonaru.com/
 https://shouginews.blog.jp/
+https://shoyusui.blog.jp/
 https://shuraba-matome.com/
 https://sinemanomatome.com/
 http://sisitama.blog.jp/
@@ -634,7 +634,6 @@ http://sumaburayasan.com/
 https://suresuta.jp/
 https://suropachi-line.com/
 http://sutekinakijo.com/
-https://suzu-pepe.blog.jp/
 https://suzusoku.blog.jp/
 https://switchsoku.com/
 http://syurabahazard.com/
@@ -654,6 +653,7 @@ http://teyvatsokuho.com/
 https://thainokoe.com/
 https://tiugoku2nd.blog.jp/
 https://toku-log.com/
+https://tokunaga-manga.blog.jp/
 https://toppogi-news.com/
 https://toraho.blog.jp/
 https://torasoku.blog.jp/
@@ -687,6 +687,7 @@ http://umatwi.blog.jp/
 https://umaumanews.com/
 http://unhappywedd.blog34.fc2.com/
 https://unitesoku.com/
+https://unpocoooo.blog.jp/
 https://usdjpy-fxyosou.blog.jp/
 http://usi32.com/
 http://uwakich.com/
