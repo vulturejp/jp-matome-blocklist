@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-10-14T21:42:41.565Z
+! Last modified: 2026-10-15T21:24:42.397Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -243,6 +243,7 @@
 ||henshin-hero.com^
 ||hero-news.com^
 ||hetare7days.blog.fc2.com^
+||heyheyheyko.blog.jp^
 ||highfashionmens.com^
 ||himasoku.com^
 ||himayomi.com^
@@ -331,6 +332,7 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
+||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -388,7 +390,6 @@
 ||majikichi.com^
 ||manga-to-anime.net^
 ||manga.itsys-tech.com^
-||manga1.jp^
 ||mangama.blog.jp^
 ||mangasokuhou.com^
 ||mania-of-football.com^
@@ -448,7 +449,6 @@
 ||mykeibamemory.blog.fc2.com^
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
-||naekumasakura.blog.jp^
 ||nagooka.net^
 ||nandemo-uketori.com^
 ||nanj-mangabu.com^
@@ -560,6 +560,7 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
+||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -656,7 +657,6 @@
 ||thainokoe.com^
 ||tiugoku2nd.blog.jp^
 ||toku-log.com^
-||tokunaga-manga.blog.jp^
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^
