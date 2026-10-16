@@ -43,7 +43,6 @@ http://animalch.net/
 https://animanch.com/
 https://anime.logu.jp/
 https://animereact.hatenablog.com/
-http://animesoku.com/
 https://anitubu.com/
 https://aobatushin-kankore.doorblog.jp/
 http://apexheadline.com/
@@ -240,7 +239,6 @@ http://helloprojects.seesaa.net/
 https://henshin-hero.com/
 http://hero-news.com/
 https://hetare7days.blog.fc2.com/
-https://heyheyheyko.blog.jp/
 https://highfashionmens.com/
 http://himasoku.com/
 https://himayomi.com/
@@ -268,7 +266,6 @@ https://imihu.net/
 https://imimemo.com/
 http://inazumanews2.com/
 https://incident-wo.com/
-https://indosou.doorblog.jp/
 https://inutomo11.com/
 https://itainews.com/
 https://itaishinja.com/
@@ -344,7 +341,6 @@ https://kinsoku.blog.jp/
 http://kintore2018.blog.jp/
 http://kiramohu.com/
 http://kisslog2.com/
-https://kitamuramichi.blog.jp/
 http://kitatouhoku-news.blog.jp/
 http://kitimama-matome.net/
 http://kitimonogatari.com/
@@ -629,12 +625,14 @@ http://ss-station.2chblog.jp/
 http://ssbiyori.blog.fc2.com/
 http://ssimas72.blog.jp/
 https://subculturejunkie.com/
+https://sugaaanuma.livedoor.blog/
 http://sukattojapan.com/
 https://sukina-news.com/
 http://sumaburayasan.com/
 https://suresuta.jp/
 https://suropachi-line.com/
 http://sutekinakijo.com/
+https://suzu-pepe.blog.jp/
 https://suzusoku.blog.jp/
 https://switchsoku.com/
 http://syurabahazard.com/
@@ -657,6 +655,7 @@ https://toku-log.com/
 https://toppogi-news.com/
 https://toraho.blog.jp/
 https://torasoku.blog.jp/
+https://torazirou7.doorblog.jp/
 http://totalmatomedia.blog.fc2.com/
 https://totalwar.doorblog.jp/
 https://toushichannel.net/
