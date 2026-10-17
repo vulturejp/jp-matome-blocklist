@@ -43,6 +43,7 @@
 *://animanch.com/*
 *://anime.logu.jp/*
 *://animereact.hatenablog.com/*
+*://animesoku.com/*
 *://anitubu.com/*
 *://aobatushin-kankore.doorblog.jp/*
 *://apexheadline.com/*
@@ -239,6 +240,7 @@
 *://henshin-hero.com/*
 *://hero-news.com/*
 *://hetare7days.blog.fc2.com/*
+*://heyheyheyko.blog.jp/*
 *://highfashionmens.com/*
 *://himasoku.com/*
 *://himayomi.com/*
@@ -349,7 +351,6 @@
 *://kokopyon.net/*
 *://kokuani.blog.jp/*
 *://kokunanmonomousu.com/*
-*://konatakona.blog.jp/*
 *://konkatsuchan.doorblog.jp/*
 *://konkatu-kekkon.blog.jp/*
 *://konnanewsnidekuwashita.com/*
@@ -443,6 +444,7 @@
 *://mylife.2chblog.jp/*
 *://na2ka4.blog.fc2.com/*
 *://nagooka.net/*
+*://nanahushi77.livedoor.blog/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*
 *://nanj-push.blog.jp/*
@@ -625,7 +627,6 @@
 *://ssbiyori.blog.fc2.com/*
 *://ssimas72.blog.jp/*
 *://subculturejunkie.com/*
-*://sugaaanuma.livedoor.blog/*
 *://sukattojapan.com/*
 *://sukina-news.com/*
 *://sumaburayasan.com/*
