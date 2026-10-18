@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-10-17T20:38:02.599Z
+! Last modified: 2026-10-18T20:45:55.966Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -47,7 +47,6 @@
 ||animanch.com^
 ||anime.logu.jp^
 ||animereact.hatenablog.com^
-||animesoku.com^
 ||anitubu.com^
 ||aobatushin-kankore.doorblog.jp^
 ||apexheadline.com^
@@ -209,7 +208,6 @@
 ||giants-news-sokuhou.com^
 ||giants-news.com^
 ||ginjimasu.blog.jp^
-||ginnga.blog.jp^
 ||girlsreport.net^
 ||girlsvip-matome.com^
 ||gnews8.blog.fc2.com^
@@ -272,6 +270,7 @@
 ||imimemo.com^
 ||inazumanews2.com^
 ||incident-wo.com^
+||indosou.doorblog.jp^
 ||inutomo11.com^
 ||itainews.com^
 ||itaishinja.com^
@@ -332,7 +331,6 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
-||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -355,6 +353,7 @@
 ||kokopyon.net^
 ||kokuani.blog.jp^
 ||kokunanmonomousu.com^
+||konatakona.blog.jp^
 ||konkatsuchan.doorblog.jp^
 ||konkatu-kekkon.blog.jp^
 ||konnanewsnidekuwashita.com^
@@ -559,7 +558,6 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
-||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -637,7 +635,6 @@
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
-||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syurabahazard.com^
@@ -660,7 +657,6 @@
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^
-||torazirou7.doorblog.jp^
 ||totalmatomedia.blog.fc2.com^
 ||totalwar.doorblog.jp^
 ||toushichannel.net^
@@ -673,6 +669,7 @@
 ||tsubamesoku.blog.jp^
 ||tsuisoku.com^
 ||tsurimatome.com^
+||tsusoku.jp^
 ||tuimichan.blog.jp^
 ||turbo-bee.com^
 ||twibuz.com^

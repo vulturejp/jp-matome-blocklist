@@ -43,7 +43,6 @@ http://animalch.net/
 https://animanch.com/
 https://anime.logu.jp/
 https://animereact.hatenablog.com/
-http://animesoku.com/
 https://anitubu.com/
 https://aobatushin-kankore.doorblog.jp/
 http://apexheadline.com/
@@ -205,7 +204,6 @@ https://gia-chan.com/
 https://giants-news-sokuhou.com/
 https://giants-news.com/
 https://ginjimasu.blog.jp/
-https://ginnga.blog.jp/
 http://girlsreport.net/
 https://girlsvip-matome.com/
 http://gnews8.blog.fc2.com/
@@ -268,6 +266,7 @@ https://imihu.net/
 https://imimemo.com/
 http://inazumanews2.com/
 https://incident-wo.com/
+https://indosou.doorblog.jp/
 https://inutomo11.com/
 https://itainews.com/
 https://itaishinja.com/
@@ -328,7 +327,6 @@ http://kijonotakuhaibin.com/
 http://kijorabu.com/
 http://kijosoku.com/
 https://kijosokuho.com/
-https://kijoume.blog.jp/
 https://kijyomatome.com/
 http://kijyomita.com/
 http://kijyoryouran.livedoor.blog/
@@ -351,6 +349,7 @@ https://koakinai.livedoor.blog/
 http://kokopyon.net/
 http://kokuani.blog.jp/
 http://kokunanmonomousu.com/
+https://konatakona.blog.jp/
 http://konkatsuchan.doorblog.jp/
 https://konkatu-kekkon.blog.jp/
 https://konnanewsnidekuwashita.com/
@@ -555,7 +554,6 @@ https://precurematome.com/
 https://prizzm.net/
 https://punpunpunta.livedoor.blog/
 https://rabitsokuhou.2chblog.jp/
-https://raicomichan.com/
 http://ramen2ch.com/
 https://red4-kaigaimatome.com/
 https://reddit-matome.com/
@@ -633,7 +631,6 @@ http://sumaburayasan.com/
 https://suresuta.jp/
 https://suropachi-line.com/
 http://sutekinakijo.com/
-https://suzu-pepe.blog.jp/
 https://suzusoku.blog.jp/
 https://switchsoku.com/
 http://syurabahazard.com/
@@ -656,7 +653,6 @@ https://toku-log.com/
 https://toppogi-news.com/
 https://toraho.blog.jp/
 https://torasoku.blog.jp/
-https://torazirou7.doorblog.jp/
 http://totalmatomedia.blog.fc2.com/
 https://totalwar.doorblog.jp/
 https://toushichannel.net/
@@ -669,6 +665,7 @@ https://tssx-uni.info/
 https://tsubamesoku.blog.jp/
 http://tsuisoku.com/
 http://tsurimatome.com/
+https://tsusoku.jp/
 https://tuimichan.blog.jp/
 https://turbo-bee.com/
 https://twibuz.com/

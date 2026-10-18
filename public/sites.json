@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:38:02.599Z",
+  "generatedAt": "2026-10-18T20:45:55.966Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -400,14 +400,6 @@
       "sources": [
         "2channeler-list",
         "moudamepo-list"
-      ]
-    },
-    {
-      "url": "http://animesoku.com/",
-      "host": "animesoku.com",
-      "firstSeenAt": "2026-10-17T20:38:02.599Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -1830,20 +1822,11 @@
       ]
     },
     {
-      "url": "https://ginnga.blog.jp/",
-      "host": "ginnga.blog.jp",
-      "firstSeenAt": "2026-07-26T09:03:30.004Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://girlsreport.net/",
       "host": "girlsreport.net",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -1855,6 +1838,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2333,7 +2317,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2391,13 +2374,20 @@
       ]
     },
     {
+      "url": "https://indosou.doorblog.jp/",
+      "host": "indosou.doorblog.jp",
+      "firstSeenAt": "2026-10-18T20:45:55.966Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://inutomo11.com/",
       "host": "inutomo11.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -2937,14 +2927,6 @@
       ]
     },
     {
-      "url": "https://kijoume.blog.jp/",
-      "host": "kijoume.blog.jp",
-      "firstSeenAt": "2026-10-15T21:24:42.397Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://kijyomatome.com/",
       "host": "kijyomatome.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -3094,6 +3076,7 @@
       "host": "kitizawa.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3131,6 +3114,14 @@
         "2ch-c-sites",
         "2channeler-list",
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://konatakona.blog.jp/",
+      "host": "konatakona.blog.jp",
+      "firstSeenAt": "2026-10-18T20:45:55.966Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -3584,7 +3575,8 @@
       "host": "matomeblade.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "5chmm-allpost"
       ]
     },
     {
@@ -4944,14 +4936,6 @@
       ]
     },
     {
-      "url": "https://raicomichan.com/",
-      "host": "raicomichan.com",
-      "firstSeenAt": "2026-10-15T21:24:42.397Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://ramen2ch.com/",
       "host": "ramen2ch.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -5629,14 +5613,6 @@
       ]
     },
     {
-      "url": "https://suzu-pepe.blog.jp/",
-      "host": "suzu-pepe.blog.jp",
-      "firstSeenAt": "2026-10-16T21:11:27.914Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://suzusoku.blog.jp/",
       "host": "suzusoku.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -5829,14 +5805,6 @@
       ]
     },
     {
-      "url": "https://torazirou7.doorblog.jp/",
-      "host": "torazirou7.doorblog.jp",
-      "firstSeenAt": "2026-10-16T21:11:27.914Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://totalmatomedia.blog.fc2.com/",
       "host": "totalmatomedia.blog.fc2.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -5944,6 +5912,14 @@
       "sources": [
         "5chmm-allpost",
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://tsusoku.jp/",
+      "host": "tsusoku.jp",
+      "firstSeenAt": "2026-10-18T20:45:55.966Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -6146,6 +6122,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
