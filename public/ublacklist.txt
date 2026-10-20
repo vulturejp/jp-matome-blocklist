@@ -43,7 +43,6 @@
 *://animanch.com/*
 *://anime.logu.jp/*
 *://animereact.hatenablog.com/*
-*://animesoku.com/*
 *://anitubu.com/*
 *://aobatushin-kankore.doorblog.jp/*
 *://apexheadline.com/*
@@ -239,6 +238,7 @@
 *://henshin-hero.com/*
 *://hero-news.com/*
 *://hetare7days.blog.fc2.com/*
+*://heyheyheyko.blog.jp/*
 *://highfashionmens.com/*
 *://himasoku.com/*
 *://himayomi.com/*
@@ -266,6 +266,7 @@
 *://imimemo.com/*
 *://inazumanews2.com/*
 *://incident-wo.com/*
+*://indosou.doorblog.jp/*
 *://inutomo11.com/*
 *://itainews.com/*
 *://itaishinja.com/*
@@ -553,7 +554,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -625,7 +625,6 @@
 *://ssbiyori.blog.fc2.com/*
 *://ssimas72.blog.jp/*
 *://subculturejunkie.com/*
-*://sugaaanuma.livedoor.blog/*
 *://sukattojapan.com/*
 *://sukina-news.com/*
 *://sumaburayasan.com/*
@@ -646,6 +645,7 @@
 *://tanoshii.youblog.jp/*
 *://tarosoku.com/*
 *://tasogarech.blog.jp/*
+*://tawaman.blog.jp/*
 *://techsoku.com/*
 *://teyvatsokuho.com/*
 *://thainokoe.com/*
@@ -654,6 +654,7 @@
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
+*://torazirou7.doorblog.jp/*
 *://totalmatomedia.blog.fc2.com/*
 *://totalwar.doorblog.jp/*
 *://toushichannel.net/*
@@ -685,7 +686,6 @@
 *://umaumanews.com/*
 *://unhappywedd.blog34.fc2.com/*
 *://unitesoku.com/*
-*://unpocoooo.blog.jp/*
 *://usdjpy-fxyosou.blog.jp/*
 *://usi32.com/*
 *://uwakich.com/*
