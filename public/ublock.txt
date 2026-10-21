@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-10-20T21:38:37.452Z
+! Last modified: 2026-10-21T21:44:35.198Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -22,12 +22,14 @@
 ||aatyu.livedoor.blog^
 ||abroadch.com^
 ||agemasen.com^
+||aichannell.blog.jp^
 ||airlinehonpo.blog.fc2.com^
 ||akankore.doorblog.jp^
 ||akb48matomemory.com^
 ||akb48mt.com^
 ||akb48rompen.com^
 ||akbmatome18300.ldblog.jp^
+||aker.blog.jp^
 ||alfalfalfa.com^
 ||all-nationz.com^
 ||almighty-nanj.ldblog.jp^
@@ -47,6 +49,7 @@
 ||animanch.com^
 ||anime.logu.jp^
 ||animereact.hatenablog.com^
+||animesoku.com^
 ||anitubu.com^
 ||aobatushin-kankore.doorblog.jp^
 ||apexheadline.com^
@@ -242,7 +245,6 @@
 ||henshin-hero.com^
 ||hero-news.com^
 ||hetare7days.blog.fc2.com^
-||heyheyheyko.blog.jp^
 ||highfashionmens.com^
 ||himasoku.com^
 ||himayomi.com^
@@ -331,6 +333,7 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
+||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -393,7 +396,6 @@
 ||manpukunews.blog.jp^
 ||marasoku.info^
 ||maru-sensor.com^
-||marugoshideka.blog.jp^
 ||maruhorror.com^
 ||marutoo.com^
 ||mashlife.doorblog.jp^
@@ -439,6 +441,7 @@
 ||movieeturan.blog.jp^
 ||movient.net^
 ||moyugenn.com^
+||mudainodocument.com^
 ||mudasure.com^
 ||muryou-tanoshimu.com^
 ||mutyun.com^
@@ -446,6 +449,7 @@
 ||mykeibamemory.blog.fc2.com^
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
+||naekumasakura.blog.jp^
 ||nagooka.net^
 ||nanahushi77.livedoor.blog^
 ||nandemo-uketori.com^
@@ -635,6 +639,7 @@
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
+||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syurabahazard.com^
@@ -649,7 +654,6 @@
 ||tanoshii.youblog.jp^
 ||tarosoku.com^
 ||tasogarech.blog.jp^
-||tawaman.blog.jp^
 ||techsoku.com^
 ||teyvatsokuho.com^
 ||thainokoe.com^
@@ -734,6 +738,7 @@
 ||xs278233.xsrv.jp^
 ||xxxkikimimixxx.blog.fc2.com^
 ||yabaibaiku.com^
+||yagov30.com^
 ||yakiunoyakata.blog.jp^
 ||yaku-plus.com^
 ||yakyu-ban.blog.jp^
