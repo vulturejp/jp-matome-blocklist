@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-10-21T21:44:35.198Z
+! Last modified: 2026-10-22T21:37:48.234Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -21,7 +21,6 @@
 ||aatyu.livedoor.blog^
 ||abroadch.com^
 ||agemasen.com^
-||aichannell.blog.jp^
 ||airlinehonpo.blog.fc2.com^
 ||akankore.doorblog.jp^
 ||akb48matomemory.com^
@@ -244,6 +243,7 @@
 ||henshin-hero.com^
 ||hero-news.com^
 ||hetare7days.blog.fc2.com^
+||heyheyheyko.blog.jp^
 ||highfashionmens.com^
 ||himasoku.com^
 ||himayomi.com^
@@ -271,7 +271,6 @@
 ||imimemo.com^
 ||inazumanews2.com^
 ||incident-wo.com^
-||indosou.doorblog.jp^
 ||inutomo11.com^
 ||itainews.com^
 ||itaishinja.com^
@@ -332,7 +331,6 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
-||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -395,6 +393,7 @@
 ||manpukunews.blog.jp^
 ||marasoku.info^
 ||maru-sensor.com^
+||marugoshideka.blog.jp^
 ||maruhorror.com^
 ||marutoo.com^
 ||mashlife.doorblog.jp^
@@ -448,7 +447,6 @@
 ||mykeibamemory.blog.fc2.com^
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
-||naekumasakura.blog.jp^
 ||nagooka.net^
 ||nanahushi77.livedoor.blog^
 ||nandemo-uketori.com^
@@ -561,6 +559,7 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
+||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -632,13 +631,13 @@
 ||ssbiyori.blog.fc2.com^
 ||ssimas72.blog.jp^
 ||subculturejunkie.com^
+||sugaaanuma.livedoor.blog^
 ||sukattojapan.com^
 ||sukina-news.com^
 ||sumaburayasan.com^
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
-||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syurabahazard.com^
@@ -661,7 +660,6 @@
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^
-||torazirou7.doorblog.jp^
 ||totalmatomedia.blog.fc2.com^
 ||totalwar.doorblog.jp^
 ||toushichannel.net^
