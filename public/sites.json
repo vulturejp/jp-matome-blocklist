@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:25:53.479Z",
+  "generatedAt": "2026-10-24T20:51:58.742Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -200,7 +200,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -408,14 +407,6 @@
       "sources": [
         "2channeler-list",
         "moudamepo-list"
-      ]
-    },
-    {
-      "url": "http://animesoku.com/",
-      "host": "animesoku.com",
-      "firstSeenAt": "2026-10-21T21:44:35.198Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -738,8 +729,7 @@
       "host": "blog.esuteru.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
-        "2chmatome-sites",
-        "5chmm-allpost"
+        "2chmatome-sites"
       ]
     },
     {
@@ -1855,6 +1845,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2059,8 +2050,7 @@
       "host": "hatarakuhijoshiki.livedoor.blog",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "5chmm-allpost"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2142,14 +2132,6 @@
       "sources": [
         "2channeler-list",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://heyheyheyko.blog.jp/",
-      "host": "heyheyheyko.blog.jp",
-      "firstSeenAt": "2026-10-22T21:37:48.234Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -2388,6 +2370,14 @@
         "2channeler-list",
         "moudamepo-list",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://indosou.doorblog.jp/",
+      "host": "indosou.doorblog.jp",
+      "firstSeenAt": "2026-10-24T20:51:58.742Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -2941,7 +2931,6 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3584,8 +3573,7 @@
       "host": "matomeblade.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "5chmm-allpost"
+        "2ch-c-sites"
       ]
     },
     {
@@ -3664,6 +3652,7 @@
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -3945,6 +3934,14 @@
       "url": "http://na2ka4.blog.fc2.com/",
       "host": "na2ka4.blog.fc2.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
+      "url": "https://naekumasakura.blog.jp/",
+      "host": "naekumasakura.blog.jp",
+      "firstSeenAt": "2026-10-24T20:51:58.742Z",
       "sources": [
         "5chmm-allpost"
       ]
@@ -4711,6 +4708,7 @@
       "sources": [
         "2ch-c-sites",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -5585,14 +5583,6 @@
       ]
     },
     {
-      "url": "https://sugaaanuma.livedoor.blog/",
-      "host": "sugaaanuma.livedoor.blog",
-      "firstSeenAt": "2026-10-22T21:37:48.234Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://sukattojapan.com/",
       "host": "sukattojapan.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -6136,7 +6126,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -6147,6 +6136,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -6176,6 +6166,7 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
@@ -6506,14 +6497,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://yagov30.com/",
-      "host": "yagov30.com",
-      "firstSeenAt": "2026-10-21T21:44:35.198Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
