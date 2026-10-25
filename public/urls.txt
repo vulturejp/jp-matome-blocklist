@@ -193,7 +193,6 @@ http://gehasoku.com/
 https://geinomatome.com/
 https://geinoukai-trend-labo.com/
 http://geinoukame.com/
-https://gekinetu.com/
 http://gekiyaku.com/
 http://gensen5ch.blog.jp/
 https://genshin-matomech.umadacchi.net/
@@ -239,6 +238,7 @@ http://helloprojects.seesaa.net/
 https://henshin-hero.com/
 http://hero-news.com/
 https://hetare7days.blog.fc2.com/
+https://heyheyheyko.blog.jp/
 https://highfashionmens.com/
 http://himasoku.com/
 https://himayomi.com/
@@ -327,6 +327,7 @@ http://kijonotakuhaibin.com/
 http://kijorabu.com/
 http://kijosoku.com/
 https://kijosokuho.com/
+https://kijoume.blog.jp/
 https://kijyomatome.com/
 http://kijyomita.com/
 http://kijyoryouran.livedoor.blog/
@@ -367,7 +368,7 @@ https://kyousake.net/
 http://kyousoku.net/
 http://kyukyoku-matome.com/
 http://kyuukaiou.ldblog.jp/
-http://labradorsokuho.net/
+https://labradorsokuho.net/
 https://latest-trendynews.com/
 https://lions-matome.com/
 https://livejupiter2.blog.jp/
@@ -443,9 +444,7 @@ https://muvluvgg.blog.jp/
 http://mykeibamemory.blog.fc2.com/
 http://mylife.2chblog.jp/
 http://na2ka4.blog.fc2.com/
-https://naekumasakura.blog.jp/
 https://nagooka.net/
-https://nanahushi77.livedoor.blog/
 https://nandemo-uketori.com/
 http://nanj-mangabu.com/
 https://nanj-push.blog.jp/
@@ -731,6 +730,7 @@ https://xresolutionx.livedoor.blog/
 http://xs278233.xsrv.jp/
 http://xxxkikimimixxx.blog.fc2.com/
 https://yabaibaiku.com/
+https://yagov30.com/
 https://yakiunoyakata.blog.jp/
 http://yaku-plus.com/
 https://yakyu-ban.blog.jp/

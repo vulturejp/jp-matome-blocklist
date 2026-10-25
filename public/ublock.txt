@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-10-24T20:51:58.742Z
+! Last modified: 2026-10-25T20:52:55.472Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -197,7 +197,6 @@
 ||geinomatome.com^
 ||geinoukai-trend-labo.com^
 ||geinoukame.com^
-||gekinetu.com^
 ||gekiyaku.com^
 ||gensen5ch.blog.jp^
 ||genshin-matomech.umadacchi.net^
@@ -243,6 +242,7 @@
 ||henshin-hero.com^
 ||hero-news.com^
 ||hetare7days.blog.fc2.com^
+||heyheyheyko.blog.jp^
 ||highfashionmens.com^
 ||himasoku.com^
 ||himayomi.com^
@@ -331,6 +331,7 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
+||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -447,9 +448,7 @@
 ||mykeibamemory.blog.fc2.com^
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
-||naekumasakura.blog.jp^
 ||nagooka.net^
-||nanahushi77.livedoor.blog^
 ||nandemo-uketori.com^
 ||nanj-mangabu.com^
 ||nanj-push.blog.jp^
@@ -735,6 +734,7 @@
 ||xs278233.xsrv.jp^
 ||xxxkikimimixxx.blog.fc2.com^
 ||yabaibaiku.com^
+||yagov30.com^
 ||yakiunoyakata.blog.jp^
 ||yaku-plus.com^
 ||yakyu-ban.blog.jp^
