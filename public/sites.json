@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:52:55.472Z",
+  "generatedAt": "2026-10-26T22:41:44.092Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -174,6 +174,14 @@
       ]
     },
     {
+      "url": "https://aichannell.blog.jp/",
+      "host": "aichannell.blog.jp",
+      "firstSeenAt": "2026-10-26T22:41:44.092Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "http://airlinehonpo.blog.fc2.com/",
       "host": "airlinehonpo.blog.fc2.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -200,6 +208,7 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -407,6 +416,14 @@
       "sources": [
         "2channeler-list",
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "http://animesoku.com/",
+      "host": "animesoku.com",
+      "firstSeenAt": "2026-10-26T22:41:44.092Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -729,8 +746,7 @@
       "host": "blog.esuteru.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
-        "2chmatome-sites",
-        "5chmm-allpost"
+        "2chmatome-sites"
       ]
     },
     {
@@ -1866,6 +1882,7 @@
       "firstSeenAt": "2026-10-01T22:42:41.583Z",
       "sources": [
         "5chmm-allpost",
+        "moudamepo-list",
         "nullpoantenna-blogs"
       ]
     },
@@ -2129,14 +2146,6 @@
       ]
     },
     {
-      "url": "https://heyheyheyko.blog.jp/",
-      "host": "heyheyheyko.blog.jp",
-      "firstSeenAt": "2026-10-25T20:52:55.472Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://highfashionmens.com/",
       "host": "highfashionmens.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -2318,6 +2327,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2928,19 +2938,12 @@
       ]
     },
     {
-      "url": "https://kijoume.blog.jp/",
-      "host": "kijoume.blog.jp",
-      "firstSeenAt": "2026-10-25T20:52:55.472Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://kijyomatome.com/",
       "host": "kijyomatome.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3085,7 +3088,6 @@
       "host": "kitizawa.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3123,14 +3125,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "moudamepo-list"
-      ]
-    },
-    {
-      "url": "https://konatakona.blog.jp/",
-      "host": "konatakona.blog.jp",
-      "firstSeenAt": "2026-10-18T20:45:55.966Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -3682,6 +3676,7 @@
       "host": "minna-shitteta.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
+        "2channeler-list",
         "moudamepo-list"
       ]
     },
@@ -3951,11 +3946,27 @@
       ]
     },
     {
+      "url": "https://naekumasakura.blog.jp/",
+      "host": "naekumasakura.blog.jp",
+      "firstSeenAt": "2026-10-26T22:41:44.092Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://nagooka.net/",
       "host": "nagooka.net",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://nanahushi77.livedoor.blog/",
+      "host": "nanahushi77.livedoor.blog",
+      "firstSeenAt": "2026-10-26T22:41:44.092Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -4510,7 +4521,6 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -5579,6 +5589,14 @@
       ]
     },
     {
+      "url": "https://sugaaanuma.livedoor.blog/",
+      "host": "sugaaanuma.livedoor.blog",
+      "firstSeenAt": "2026-10-26T22:41:44.092Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "http://sukattojapan.com/",
       "host": "sukattojapan.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -5722,6 +5740,15 @@
       "url": "https://tamakiti0912-blog.com/",
       "host": "tamakiti0912-blog.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
+      "sources": [
+        "2channeler-list",
+        "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://tamaya-kaigai.com/",
+      "host": "tamaya-kaigai.com",
+      "firstSeenAt": "2026-10-26T22:41:44.092Z",
       "sources": [
         "2channeler-list",
         "moudamepo-list"
@@ -6003,6 +6030,14 @@
       ]
     },
     {
+      "url": "https://umadori-ff14.com/",
+      "host": "umadori-ff14.com",
+      "firstSeenAt": "2026-10-26T22:41:44.092Z",
+      "sources": [
+        "moudamepo-list"
+      ]
+    },
+    {
       "url": "https://umakado.com/",
       "host": "umakado.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
@@ -6161,7 +6196,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
@@ -6309,6 +6343,7 @@
       "host": "watashi-warui.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
+        "2channeler-list",
         "moudamepo-list"
       ]
     },
