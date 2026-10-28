@@ -18,12 +18,14 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
 *://akb48mt.com/*
 *://akb48rompen.com/*
 *://akbmatome18300.ldblog.jp/*
+*://aker.blog.jp/*
 *://alfalfalfa.com/*
 *://all-nationz.com/*
 *://almighty-nanj.ldblog.jp/*
@@ -43,6 +45,7 @@
 *://animanch.com/*
 *://anime.logu.jp/*
 *://animereact.hatenablog.com/*
+*://animesoku.com/*
 *://anitubu.com/*
 *://aobatushin-kankore.doorblog.jp/*
 *://apexheadline.com/*
@@ -209,6 +212,7 @@
 *://gogotorimaru.blog19.fc2.com/*
 *://goldennews.blog.jp/*
 *://good-vibesss.net/*
+*://goog-sokuho.com/*
 *://gossip1.net/*
 *://gotagotashita.livedoor.blog/*
 *://gotravel.blog.jp/*
@@ -237,6 +241,7 @@
 *://henshin-hero.com/*
 *://hero-news.com/*
 *://hetare7days.blog.fc2.com/*
+*://heyheyheyko.blog.jp/*
 *://highfashionmens.com/*
 *://himasoku.com/*
 *://himayomi.com/*
@@ -326,6 +331,7 @@
 *://kijorabu.com/*
 *://kijosoku.com/*
 *://kijosokuho.com/*
+*://kijoume.blog.jp/*
 *://kijyomatome.com/*
 *://kijyomita.com/*
 *://kijyoryouran.livedoor.blog/*
@@ -443,8 +449,8 @@
 *://mykeibamemory.blog.fc2.com/*
 *://mylife.2chblog.jp/*
 *://na2ka4.blog.fc2.com/*
-*://naekumasakura.blog.jp/*
 *://nagooka.net/*
+*://nanahushi77.livedoor.blog/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*
 *://nanj-push.blog.jp/*
@@ -555,7 +561,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -648,13 +653,11 @@
 *://tanoshii.youblog.jp/*
 *://tarosoku.com/*
 *://tasogarech.blog.jp/*
-*://tawaman.blog.jp/*
 *://techsoku.com/*
 *://teyvatsokuho.com/*
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
-*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
@@ -670,7 +673,6 @@
 *://tsubamesoku.blog.jp/*
 *://tsuisoku.com/*
 *://tsurimatome.com/*
-*://tsusoku.jp/*
 *://tuimichan.blog.jp/*
 *://turbo-bee.com/*
 *://twibuz.com/*
