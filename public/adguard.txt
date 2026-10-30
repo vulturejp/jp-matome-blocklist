@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-10-29T22:46:36.623Z
+! Last modified: 2026-10-30T22:22:54.968Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -27,6 +27,7 @@
 ||akb48mt.com^
 ||akb48rompen.com^
 ||akbmatome18300.ldblog.jp^
+||aker.blog.jp^
 ||alfalfalfa.com^
 ||all-nationz.com^
 ||almighty-nanj.ldblog.jp^
@@ -330,7 +331,6 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
-||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -561,6 +561,7 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
+||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -632,13 +633,13 @@
 ||ssbiyori.blog.fc2.com^
 ||ssimas72.blog.jp^
 ||subculturejunkie.com^
+||sugaaanuma.livedoor.blog^
 ||sukattojapan.com^
 ||sukina-news.com^
 ||sumaburayasan.com^
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
-||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syurabahazard.com^
@@ -659,7 +660,6 @@
 ||thainokoe.com^
 ||tiugoku2nd.blog.jp^
 ||toku-log.com^
-||tokunaga-manga.blog.jp^
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^
