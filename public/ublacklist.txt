@@ -18,13 +18,13 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
 *://akb48mt.com/*
 *://akb48rompen.com/*
 *://akbmatome18300.ldblog.jp/*
-*://aker.blog.jp/*
 *://alfalfalfa.com/*
 *://all-nationz.com/*
 *://almighty-nanj.ldblog.jp/*
@@ -42,6 +42,7 @@
 *://anihatsu.com/*
 *://animalch.net/*
 *://animanch.com/*
+*://anime-no-umi.com/*
 *://anime.logu.jp/*
 *://animereact.hatenablog.com/*
 *://anitubu.com/*
@@ -103,6 +104,7 @@
 *://chiebukuronews.blog.jp/*
 *://chigesoku3.doorblog.jp/*
 *://chikakb.ldblog.jp/*
+*://china-hannou.com/*
 *://chitama.blog.jp/*
 *://chiwasoku.weblog.to/*
 *://chojinnitoryu.com/*
@@ -206,6 +208,7 @@
 *://ginjimasu.blog.jp/*
 *://girlsreport.net/*
 *://girlsvip-matome.com/*
+*://global-matome.com/*
 *://gnews8.blog.fc2.com/*
 *://gogotorimaru.blog19.fc2.com/*
 *://goldennews.blog.jp/*
@@ -267,7 +270,6 @@
 *://imimemo.com/*
 *://inazumanews2.com/*
 *://incident-wo.com/*
-*://indosou.doorblog.jp/*
 *://inutomo11.com/*
 *://itainews.com/*
 *://itaishinja.com/*
@@ -294,6 +296,7 @@
 *://kaigai-japan.com/*
 *://kaigai-matome.net/*
 *://kaigai-nippon.com/*
+*://kaigaihanno.net/*
 *://kaigainoomaera.com/*
 *://kaigaiwelcome.com/*
 *://kaikore.blogspot.com/*
@@ -357,6 +360,7 @@
 *://konoyubitomare.jp/*
 *://kore-real.info/*
 *://koreahanno.com/*
+*://koreaniki.com/*
 *://kosoch.com/*
 *://kosodatefurefure.ldblog.jp/*
 *://kouhey.blog.jp/*
@@ -448,6 +452,7 @@
 *://na2ka4.blog.fc2.com/*
 *://naekumasakura.blog.jp/*
 *://nagooka.net/*
+*://nanahushi77.livedoor.blog/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*
 *://nanj-push.blog.jp/*
@@ -656,7 +661,6 @@
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
-*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
