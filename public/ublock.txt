@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-11-01T22:03:29.978Z
+! Last modified: 2026-11-03T00:59:38.092Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -22,7 +22,6 @@
 ||aatyu.livedoor.blog^
 ||abroadch.com^
 ||agemasen.com^
-||aichannell.blog.jp^
 ||airlinehonpo.blog.fc2.com^
 ||akankore.doorblog.jp^
 ||akb48matomemory.com^
@@ -49,6 +48,7 @@
 ||anime-no-umi.com^
 ||anime.logu.jp^
 ||animereact.hatenablog.com^
+||animesoku.com^
 ||anitubu.com^
 ||aobatushin-kankore.doorblog.jp^
 ||apexheadline.com^
@@ -56,6 +56,7 @@
 ||aramame.net^
 ||arceus-sokuho.com^
 ||arugamama-soccer.com^
+||asanosousaku.blog.jp^
 ||asianoneta.blog.jp^
 ||asukyann.blog.jp^
 ||at-archives.com^
@@ -274,6 +275,7 @@
 ||imimemo.com^
 ||inazumanews2.com^
 ||incident-wo.com^
+||indosou.doorblog.jp^
 ||inutomo11.com^
 ||itainews.com^
 ||itaishinja.com^
@@ -283,6 +285,7 @@
 ||j2tsushin.blog.jp^
 ||jacklog.doorblog.jp^
 ||jannamusoku.com^
+||japan-reaction-real.blogspot.com^
 ||japohan.net^
 ||jin115.com^
 ||jisaka.com^
@@ -398,7 +401,6 @@
 ||manpukunews.blog.jp^
 ||marasoku.info^
 ||maru-sensor.com^
-||marugoshideka.blog.jp^
 ||maruhorror.com^
 ||marutoo.com^
 ||mashlife.doorblog.jp^
@@ -425,6 +427,7 @@
 ||mirishita.2chblog.jp^
 ||mizuhonokuni2ch.com^
 ||moccosnoon.com^
+||mochidosukoi.blog.jp^
 ||moe-vip.com^
 ||moeasia.net^
 ||moerunihon.blog.jp^
@@ -567,7 +570,6 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
-||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -645,6 +647,7 @@
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
+||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syurabahazard.com^
