@@ -18,6 +18,7 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
+*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
@@ -242,7 +243,6 @@
 *://henshin-hero.com/*
 *://hero-news.com/*
 *://hetare7days.blog.fc2.com/*
-*://heyheyheyko.blog.jp/*
 *://highfashionmens.com/*
 *://himasoku.com/*
 *://himayomi.com/*
@@ -741,7 +741,6 @@
 *://xs278233.xsrv.jp/*
 *://xxxkikimimixxx.blog.fc2.com/*
 *://yabaibaiku.com/*
-*://yagov30.com/*
 *://yakiunoyakata.blog.jp/*
 *://yaku-plus.com/*
 *://yakyu-ban.blog.jp/*
