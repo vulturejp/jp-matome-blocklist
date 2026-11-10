@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-11-08T22:08:02.671Z
+! Last modified: 2026-11-10T01:33:39.237Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -48,6 +48,7 @@
 ||anime-no-umi.com^
 ||anime.logu.jp^
 ||animereact.hatenablog.com^
+||animesoku.com^
 ||anitubu.com^
 ||aobatushin-kankore.doorblog.jp^
 ||apexheadline.com^
@@ -55,6 +56,7 @@
 ||aramame.net^
 ||arceus-sokuho.com^
 ||arugamama-soccer.com^
+||asanosousaku.blog.jp^
 ||asianoneta.blog.jp^
 ||asukyann.blog.jp^
 ||at-archives.com^
@@ -245,7 +247,6 @@
 ||henshin-hero.com^
 ||hero-news.com^
 ||hetare7days.blog.fc2.com^
-||heyheyheyko.blog.jp^
 ||highfashionmens.com^
 ||himasoku.com^
 ||himayomi.com^
@@ -274,7 +275,6 @@
 ||imimemo.com^
 ||inazumanews2.com^
 ||incident-wo.com^
-||indosou.doorblog.jp^
 ||inutomo11.com^
 ||itainews.com^
 ||itaishinja.com^
@@ -337,7 +337,6 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
-||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -428,6 +427,7 @@
 ||mirishita.2chblog.jp^
 ||mizuhonokuni2ch.com^
 ||moccosnoon.com^
+||mochidosukoi.blog.jp^
 ||moe-vip.com^
 ||moeasia.net^
 ||moerunihon.blog.jp^
@@ -457,8 +457,8 @@
 ||mykeibamemory.blog.fc2.com^
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
-||naekumasakura.blog.jp^
 ||nagooka.net^
+||nanahushi77.livedoor.blog^
 ||nandemo-uketori.com^
 ||nanj-mangabu.com^
 ||nanj-push.blog.jp^
@@ -647,6 +647,7 @@
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
+||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syurabahazard.com^
@@ -667,7 +668,6 @@
 ||thainokoe.com^
 ||tiugoku2nd.blog.jp^
 ||toku-log.com^
-||tokunaga-manga.blog.jp^
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^
