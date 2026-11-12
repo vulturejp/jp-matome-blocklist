@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:24:22.555Z",
+  "generatedAt": "2026-11-12T00:45:23.745Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -200,7 +200,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -1066,6 +1065,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -2077,8 +2077,7 @@
       "host": "hatarakuhijoshiki.livedoor.blog",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "5chmm-allpost"
+        "2ch-c-sites"
       ]
     },
     {
@@ -2352,6 +2351,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2406,14 +2406,6 @@
         "2channeler-list",
         "moudamepo-list",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://indosou.doorblog.jp/",
-      "host": "indosou.doorblog.jp",
-      "firstSeenAt": "2026-11-10T23:24:22.555Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -2528,7 +2520,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts"
       ]
@@ -3166,6 +3157,14 @@
         "2ch-c-sites",
         "2channeler-list",
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://konatakona.blog.jp/",
+      "host": "konatakona.blog.jp",
+      "firstSeenAt": "2026-11-12T00:45:23.745Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -4780,6 +4779,7 @@
       "sources": [
         "2ch-c-sites",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -5014,7 +5014,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
@@ -5655,6 +5654,14 @@
       ]
     },
     {
+      "url": "https://sugaaanuma.livedoor.blog/",
+      "host": "sugaaanuma.livedoor.blog",
+      "firstSeenAt": "2026-11-12T00:45:23.745Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "http://sukattojapan.com/",
       "host": "sukattojapan.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -6215,7 +6222,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -6255,6 +6261,7 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
@@ -6586,14 +6593,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://yagov30.com/",
-      "host": "yagov30.com",
-      "firstSeenAt": "2026-11-07T21:52:49.846Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {

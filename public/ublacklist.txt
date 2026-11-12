@@ -270,7 +270,6 @@
 *://imimemo.com/*
 *://inazumanews2.com/*
 *://incident-wo.com/*
-*://indosou.doorblog.jp/*
 *://inutomo11.com/*
 *://itainews.com/*
 *://itaishinja.com/*
@@ -355,6 +354,7 @@
 *://kokopyon.net/*
 *://kokuani.blog.jp/*
 *://kokunanmonomousu.com/*
+*://konatakona.blog.jp/*
 *://konkatsuchan.doorblog.jp/*
 *://konkatu-kekkon.blog.jp/*
 *://konnanewsnidekuwashita.com/*
@@ -636,6 +636,7 @@
 *://ssbiyori.blog.fc2.com/*
 *://ssimas72.blog.jp/*
 *://subculturejunkie.com/*
+*://sugaaanuma.livedoor.blog/*
 *://sukattojapan.com/*
 *://sukina-news.com/*
 *://sumaburayasan.com/*
@@ -741,7 +742,6 @@
 *://xs278233.xsrv.jp/*
 *://xxxkikimimixxx.blog.fc2.com/*
 *://yabaibaiku.com/*
-*://yagov30.com/*
 *://yakiunoyakata.blog.jp/*
 *://yaku-plus.com/*
 *://yakyu-ban.blog.jp/*
