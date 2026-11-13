@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-11-12T23:39:43.303Z
+! Last modified: 2026-11-13T23:35:35.477Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -22,6 +22,7 @@
 ||aatyu.livedoor.blog^
 ||abroadch.com^
 ||agemasen.com^
+||aichannell.blog.jp^
 ||airlinehonpo.blog.fc2.com^
 ||akankore.doorblog.jp^
 ||akb48matomemory.com^
@@ -48,7 +49,6 @@
 ||anime-no-umi.com^
 ||anime.logu.jp^
 ||animereact.hatenablog.com^
-||animesoku.com^
 ||anitubu.com^
 ||aobatushin-kankore.doorblog.jp^
 ||apexheadline.com^
@@ -246,7 +246,6 @@
 ||henshin-hero.com^
 ||hero-news.com^
 ||hetare7days.blog.fc2.com^
-||heyheyheyko.blog.jp^
 ||highfashionmens.com^
 ||himasoku.com^
 ||himayomi.com^
@@ -449,7 +448,6 @@
 ||movient.net^
 ||moyugenn.com^
 ||ms-redesign.com^
-||mudainodocument.com^
 ||mudasure.com^
 ||muryou-tanoshimu.com^
 ||mutyun.com^
@@ -457,8 +455,8 @@
 ||mykeibamemory.blog.fc2.com^
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
+||naekumasakura.blog.jp^
 ||nagooka.net^
-||nanahushi77.livedoor.blog^
 ||nandemo-uketori.com^
 ||nanj-mangabu.com^
 ||nanj-push.blog.jp^
@@ -569,7 +567,6 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
-||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -746,6 +743,7 @@
 ||xs278233.xsrv.jp^
 ||xxxkikimimixxx.blog.fc2.com^
 ||yabaibaiku.com^
+||yagov30.com^
 ||yakiunoyakata.blog.jp^
 ||yaku-plus.com^
 ||yakyu-ban.blog.jp^
