@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:35:35.477Z",
+  "generatedAt": "2026-11-14T22:27:00.316Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -171,14 +171,6 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
-      ]
-    },
-    {
-      "url": "https://aichannell.blog.jp/",
-      "host": "aichannell.blog.jp",
-      "firstSeenAt": "2026-11-13T23:35:35.477Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -416,6 +408,14 @@
       "sources": [
         "2channeler-list",
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "http://animesoku.com/",
+      "host": "animesoku.com",
+      "firstSeenAt": "2026-11-14T22:27:00.316Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -2983,6 +2983,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3721,7 +3722,6 @@
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -4031,6 +4031,7 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "newmatoan-posts",
         "nwantenna-blogs"
       ]
@@ -4253,6 +4254,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "http://news-buzz1.com/",
+      "host": "news-buzz1.com",
+      "firstSeenAt": "2026-11-14T22:27:00.316Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -5003,10 +5012,17 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://raicomichan.com/",
+      "host": "raicomichan.com",
+      "firstSeenAt": "2026-11-14T22:27:00.316Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -5687,14 +5703,6 @@
       ]
     },
     {
-      "url": "https://suzu-pepe.blog.jp/",
-      "host": "suzu-pepe.blog.jp",
-      "firstSeenAt": "2026-11-10T01:33:39.237Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://suzusoku.blog.jp/",
       "host": "suzusoku.blog.jp",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -5867,6 +5875,14 @@
       "sources": [
         "2channeler-list",
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://tokunaga-manga.blog.jp/",
+      "host": "tokunaga-manga.blog.jp",
+      "firstSeenAt": "2026-11-14T22:27:00.316Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -6195,6 +6211,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]

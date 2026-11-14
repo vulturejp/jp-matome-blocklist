@@ -18,7 +18,6 @@
 *://aatyu.livedoor.blog/*
 *://abroadch.com/*
 *://agemasen.com/*
-*://aichannell.blog.jp/*
 *://airlinehonpo.blog.fc2.com/*
 *://akankore.doorblog.jp/*
 *://akb48matomemory.com/*
@@ -45,6 +44,7 @@
 *://anime-no-umi.com/*
 *://anime.logu.jp/*
 *://animereact.hatenablog.com/*
+*://animesoku.com/*
 *://anitubu.com/*
 *://aobatushin-kankore.doorblog.jp/*
 *://apexheadline.com/*
@@ -479,6 +479,7 @@
 *://new-game1101.com/*
 *://newhoshu.blog.jp/*
 *://news-bomb.com/*
+*://news-buzz1.com/*
 *://news-s.net/*
 *://news-z.blog.jp/*
 *://news.2chblog.jp/*
@@ -563,6 +564,7 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
+*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -640,7 +642,6 @@
 *://suresuta.jp/*
 *://suropachi-line.com/*
 *://sutekinakijo.com/*
-*://suzu-pepe.blog.jp/*
 *://suzusoku.blog.jp/*
 *://switchsoku.com/*
 *://syurabahazard.com/*
@@ -661,6 +662,7 @@
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
+*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
