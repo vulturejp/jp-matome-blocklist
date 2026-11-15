@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-11-14T22:27:00.316Z
+! Last modified: 2026-11-15T22:50:27.882Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -245,6 +245,7 @@
 ||henshin-hero.com^
 ||hero-news.com^
 ||hetare7days.blog.fc2.com^
+||heyheyheyko.blog.jp^
 ||highfashionmens.com^
 ||himasoku.com^
 ||himayomi.com^
@@ -273,7 +274,6 @@
 ||imimemo.com^
 ||inazumanews2.com^
 ||incident-wo.com^
-||indosou.doorblog.jp^
 ||inutomo11.com^
 ||itainews.com^
 ||itaishinja.com^
@@ -447,6 +447,7 @@
 ||movient.net^
 ||moyugenn.com^
 ||ms-redesign.com^
+||mudainodocument.com^
 ||mudasure.com^
 ||muryou-tanoshimu.com^
 ||mutyun.com^
@@ -482,7 +483,6 @@
 ||new-game1101.com^
 ||newhoshu.blog.jp^
 ||news-bomb.com^
-||news-buzz1.com^
 ||news-s.net^
 ||news-z.blog.jp^
 ||news.2chblog.jp^
@@ -639,12 +639,14 @@
 ||ssbiyori.blog.fc2.com^
 ||ssimas72.blog.jp^
 ||subculturejunkie.com^
+||sugaaanuma.livedoor.blog^
 ||sukattojapan.com^
 ||sukina-news.com^
 ||sumaburayasan.com^
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
+||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syurabahazard.com^
@@ -665,7 +667,6 @@
 ||thainokoe.com^
 ||tiugoku2nd.blog.jp^
 ||toku-log.com^
-||tokunaga-manga.blog.jp^
 ||toppogi-news.com^
 ||toraho.blog.jp^
 ||torasoku.blog.jp^
