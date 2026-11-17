@@ -225,7 +225,7 @@ https://gunpla-news24.info/
 http://h-pon.doorblog.jp/
 https://h616r825.livedoor.blog/
 https://hagelicious.com/
-https://hamusoku.com/
+http://hamusoku.com/
 http://hannichigukoku.info/
 https://hanouke.com/
 https://hanshintigers1.blog.jp/
@@ -423,6 +423,7 @@ https://minna-shitteta.com/
 https://mirishita.2chblog.jp/
 http://mizuhonokuni2ch.com/
 https://moccosnoon.com/
+https://mochidosukoi.blog.jp/
 http://moe-vip.com/
 https://moeasia.net/
 https://moerunihon.blog.jp/
@@ -452,7 +453,6 @@ https://muvluvgg.blog.jp/
 http://mykeibamemory.blog.fc2.com/
 http://mylife.2chblog.jp/
 http://na2ka4.blog.fc2.com/
-https://naekumasakura.blog.jp/
 https://nagooka.net/
 https://nandemo-uketori.com/
 http://nanj-mangabu.com/
@@ -636,7 +636,6 @@ http://ss-station.2chblog.jp/
 http://ssbiyori.blog.fc2.com/
 http://ssimas72.blog.jp/
 https://subculturejunkie.com/
-https://sugaaanuma.livedoor.blog/
 http://sukattojapan.com/
 https://sukina-news.com/
 http://sumaburayasan.com/
