@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:52:14.454Z",
+  "generatedAt": "2026-11-18T00:58:12.397Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -1314,7 +1314,6 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "newmatoan-posts",
         "nullpoantenna-blogs"
       ]
@@ -1370,6 +1369,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2359,7 +2359,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2528,7 +2527,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts"
       ]
@@ -2611,6 +2609,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -2984,6 +2983,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -4040,6 +4040,7 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "newmatoan-posts",
         "nwantenna-blogs"
       ]
@@ -4778,6 +4779,7 @@
       "sources": [
         "2ch-c-sites",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -6017,6 +6019,7 @@
       "host": "tsurimatome.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -6200,7 +6203,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -6223,7 +6225,6 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -6253,7 +6254,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
