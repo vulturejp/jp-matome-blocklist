@@ -44,7 +44,6 @@ https://animanch.com/
 https://anime-no-umi.com/
 https://anime.logu.jp/
 https://animereact.hatenablog.com/
-http://animesoku.com/
 https://anitubu.com/
 https://aobatushin-kankore.doorblog.jp/
 http://apexheadline.com/
@@ -224,7 +223,7 @@ https://gunpla-news24.info/
 http://h-pon.doorblog.jp/
 https://h616r825.livedoor.blog/
 https://hagelicious.com/
-https://hamusoku.com/
+http://hamusoku.com/
 http://hannichigukoku.info/
 https://hanouke.com/
 https://hanshintigers1.blog.jp/
@@ -241,6 +240,7 @@ http://helloprojects.seesaa.net/
 https://henshin-hero.com/
 http://hero-news.com/
 https://hetare7days.blog.fc2.com/
+https://heyheyheyko.blog.jp/
 https://highfashionmens.com/
 http://himasoku.com/
 https://himayomi.com/
@@ -331,6 +331,7 @@ http://kijonotakuhaibin.com/
 http://kijorabu.com/
 http://kijosoku.com/
 https://kijosokuho.com/
+https://kijoume.blog.jp/
 https://kijyomatome.com/
 http://kijyomita.com/
 http://kijyoryouran.livedoor.blog/
@@ -634,7 +635,6 @@ http://ss-station.2chblog.jp/
 http://ssbiyori.blog.fc2.com/
 http://ssimas72.blog.jp/
 https://subculturejunkie.com/
-https://sugaaanuma.livedoor.blog/
 http://sukattojapan.com/
 https://sukina-news.com/
 http://sumaburayasan.com/

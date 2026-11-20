@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:38:11.406Z",
+  "generatedAt": "2026-11-20T23:59:41.895Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -200,7 +200,6 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -250,7 +249,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -409,14 +407,6 @@
       "sources": [
         "2channeler-list",
         "moudamepo-list"
-      ]
-    },
-    {
-      "url": "http://animesoku.com/",
-      "host": "animesoku.com",
-      "firstSeenAt": "2026-11-14T22:27:00.316Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -1844,7 +1834,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -2001,12 +1990,11 @@
       ]
     },
     {
-      "url": "https://hamusoku.com/",
+      "url": "http://hamusoku.com/",
       "host": "hamusoku.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2chmatome-sites",
-        "5chmm-allpost",
         "newmatoan-posts"
       ]
     },
@@ -2153,6 +2141,14 @@
       "sources": [
         "2channeler-list",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://heyheyheyko.blog.jp/",
+      "host": "heyheyheyko.blog.jp",
+      "firstSeenAt": "2026-11-20T23:59:41.895Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -2345,6 +2341,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2408,7 +2405,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -2963,6 +2959,14 @@
       ]
     },
     {
+      "url": "https://kijoume.blog.jp/",
+      "host": "kijoume.blog.jp",
+      "firstSeenAt": "2026-11-20T23:59:41.895Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://kijyomatome.com/",
       "host": "kijyomatome.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -3112,6 +3116,7 @@
       "host": "kitizawa.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3618,7 +3623,8 @@
       "host": "matomeblade.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "5chmm-allpost"
       ]
     },
     {
@@ -4770,7 +4776,6 @@
       "sources": [
         "2ch-c-sites",
         "2chmatome-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -5581,6 +5586,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -5637,14 +5643,6 @@
       ]
     },
     {
-      "url": "https://sugaaanuma.livedoor.blog/",
-      "host": "sugaaanuma.livedoor.blog",
-      "firstSeenAt": "2026-11-20T00:38:11.406Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://sukattojapan.com/",
       "host": "sukattojapan.com",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -5692,6 +5690,7 @@
       "host": "sutekinakijo.com",
       "firstSeenAt": "2026-06-14T10:11:57.184Z",
       "sources": [
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -6216,6 +6215,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -6245,6 +6245,7 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
