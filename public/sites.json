@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:24:00.950Z",
+  "generatedAt": "2026-11-20T00:38:11.406Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -200,6 +200,7 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -249,6 +250,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -1369,7 +1371,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -1904,14 +1905,6 @@
       ]
     },
     {
-      "url": "https://goog-sokuho.com/",
-      "host": "goog-sokuho.com",
-      "firstSeenAt": "2026-10-28T22:37:08.886Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://gossip1.net/",
       "host": "gossip1.net",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
@@ -2008,11 +2001,12 @@
       ]
     },
     {
-      "url": "http://hamusoku.com/",
+      "url": "https://hamusoku.com/",
       "host": "hamusoku.com",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2chmatome-sites",
+        "5chmm-allpost",
         "newmatoan-posts"
       ]
     },
@@ -2159,14 +2153,6 @@
       "sources": [
         "2channeler-list",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://heyheyheyko.blog.jp/",
-      "host": "heyheyheyko.blog.jp",
-      "firstSeenAt": "2026-11-15T22:50:27.882Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -2767,12 +2753,11 @@
       ]
     },
     {
-      "url": "https://kankokunews.net/",
+      "url": "http://kankokunews.net/",
       "host": "kankokunews.net",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
-        "2channeler-list",
-        "moudamepo-list"
+        "2channeler-list"
       ]
     },
     {
@@ -2983,7 +2968,6 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3634,8 +3618,7 @@
       "host": "matomeblade.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites",
-        "5chmm-allpost"
+        "2ch-c-sites"
       ]
     },
     {
@@ -3770,14 +3753,6 @@
         "2channeler-list",
         "moudamepo-list",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://mochidosukoi.blog.jp/",
-      "host": "mochidosukoi.blog.jp",
-      "firstSeenAt": "2026-11-17T01:52:14.454Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -4027,11 +4002,27 @@
       ]
     },
     {
+      "url": "https://naekumasakura.blog.jp/",
+      "host": "naekumasakura.blog.jp",
+      "firstSeenAt": "2026-11-20T00:38:11.406Z",
+      "sources": [
+        "5chmm-allpost"
+      ]
+    },
+    {
       "url": "https://nagooka.net/",
       "host": "nagooka.net",
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://nanahushi77.livedoor.blog/",
+      "host": "nanahushi77.livedoor.blog",
+      "firstSeenAt": "2026-11-20T00:38:11.406Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -5020,14 +5011,6 @@
       ]
     },
     {
-      "url": "https://raicomichan.com/",
-      "host": "raicomichan.com",
-      "firstSeenAt": "2026-11-14T22:27:00.316Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "http://ramen2ch.com/",
       "host": "ramen2ch.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -5651,6 +5634,14 @@
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
       "sources": [
         "2channeler-list"
+      ]
+    },
+    {
+      "url": "https://sugaaanuma.livedoor.blog/",
+      "host": "sugaaanuma.livedoor.blog",
+      "firstSeenAt": "2026-11-20T00:38:11.406Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -6506,14 +6497,6 @@
       ]
     },
     {
-      "url": "https://worldsoccerch.com/",
-      "host": "worldsoccerch.com",
-      "firstSeenAt": "2026-06-14T10:19:44.880Z",
-      "sources": [
-        "moudamepo-list"
-      ]
-    },
-    {
       "url": "https://www2.bikechannel.info/",
       "host": "www2.bikechannel.info",
       "firstSeenAt": "2026-07-26T09:03:30.004Z",
@@ -6551,6 +6534,14 @@
       "firstSeenAt": "2026-06-14T10:19:44.880Z",
       "sources": [
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://xn--zck9awe6ds833acvb.jp/",
+      "host": "xn--zck9awe6ds833acvb.jp",
+      "firstSeenAt": "2026-11-20T00:38:11.406Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {

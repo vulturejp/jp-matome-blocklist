@@ -213,7 +213,6 @@ http://gnews8.blog.fc2.com/
 http://gogotorimaru.blog19.fc2.com/
 https://goldennews.blog.jp/
 https://good-vibesss.net/
-https://goog-sokuho.com/
 http://gossip1.net/
 https://gotagotashita.livedoor.blog/
 https://gotravel.blog.jp/
@@ -225,7 +224,7 @@ https://gunpla-news24.info/
 http://h-pon.doorblog.jp/
 https://h616r825.livedoor.blog/
 https://hagelicious.com/
-http://hamusoku.com/
+https://hamusoku.com/
 http://hannichigukoku.info/
 https://hanouke.com/
 https://hanshintigers1.blog.jp/
@@ -242,7 +241,6 @@ http://helloprojects.seesaa.net/
 https://henshin-hero.com/
 http://hero-news.com/
 https://hetare7days.blog.fc2.com/
-https://heyheyheyko.blog.jp/
 https://highfashionmens.com/
 http://himasoku.com/
 https://himayomi.com/
@@ -309,7 +307,7 @@ https://kancolle.doorblog.jp/
 https://kandatasokuho.com/
 https://kandonippon.com/
 https://kankeinai.blog.jp/
-https://kankokunews.net/
+http://kankokunews.net/
 http://kankokunohannou.org/
 https://kannyu.blog.jp/
 https://karukantimes.com/
@@ -423,7 +421,6 @@ https://minna-shitteta.com/
 https://mirishita.2chblog.jp/
 http://mizuhonokuni2ch.com/
 https://moccosnoon.com/
-https://mochidosukoi.blog.jp/
 http://moe-vip.com/
 https://moeasia.net/
 https://moerunihon.blog.jp/
@@ -453,7 +450,9 @@ https://muvluvgg.blog.jp/
 http://mykeibamemory.blog.fc2.com/
 http://mylife.2chblog.jp/
 http://na2ka4.blog.fc2.com/
+https://naekumasakura.blog.jp/
 https://nagooka.net/
+https://nanahushi77.livedoor.blog/
 https://nandemo-uketori.com/
 http://nanj-mangabu.com/
 https://nanj-push.blog.jp/
@@ -564,7 +563,6 @@ https://precurematome.com/
 https://prizzm.net/
 https://punpunpunta.livedoor.blog/
 https://rabitsokuhou.2chblog.jp/
-https://raicomichan.com/
 http://ramen2ch.com/
 https://red4-kaigaimatome.com/
 https://reddit-matome.com/
@@ -636,6 +634,7 @@ http://ss-station.2chblog.jp/
 http://ssbiyori.blog.fc2.com/
 http://ssimas72.blog.jp/
 https://subculturejunkie.com/
+https://sugaaanuma.livedoor.blog/
 http://sukattojapan.com/
 https://sukina-news.com/
 http://sumaburayasan.com/
@@ -731,12 +730,12 @@ https://world-soccer-fan.com/
 https://world-study.jp/
 https://worldfn.net/
 https://worldreport8.com/
-https://worldsoccerch.com/
 https://www2.bikechannel.info/
 http://xn---fate-grandorder-794ovb07b7ht176ef78bjy3dxb0g.com/
 https://xn--fgo-gh8fn72e.com/
 https://xn--o9j0bk1l6d1bnv1as45bb2j.com/
 https://xn--o9j0bk9l4k169rk1cxv4aci7a739c.com/
+https://xn--zck9awe6ds833acvb.jp/
 https://xresolutionx.livedoor.blog/
 http://xs278233.xsrv.jp/
 http://xxxkikimimixxx.blog.fc2.com/

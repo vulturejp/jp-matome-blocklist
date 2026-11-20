@@ -213,7 +213,6 @@
 *://gogotorimaru.blog19.fc2.com/*
 *://goldennews.blog.jp/*
 *://good-vibesss.net/*
-*://goog-sokuho.com/*
 *://gossip1.net/*
 *://gotagotashita.livedoor.blog/*
 *://gotravel.blog.jp/*
@@ -242,7 +241,6 @@
 *://henshin-hero.com/*
 *://hero-news.com/*
 *://hetare7days.blog.fc2.com/*
-*://heyheyheyko.blog.jp/*
 *://highfashionmens.com/*
 *://himasoku.com/*
 *://himayomi.com/*
@@ -423,7 +421,6 @@
 *://mirishita.2chblog.jp/*
 *://mizuhonokuni2ch.com/*
 *://moccosnoon.com/*
-*://mochidosukoi.blog.jp/*
 *://moe-vip.com/*
 *://moeasia.net/*
 *://moerunihon.blog.jp/*
@@ -453,7 +450,9 @@
 *://mykeibamemory.blog.fc2.com/*
 *://mylife.2chblog.jp/*
 *://na2ka4.blog.fc2.com/*
+*://naekumasakura.blog.jp/*
 *://nagooka.net/*
+*://nanahushi77.livedoor.blog/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*
 *://nanj-push.blog.jp/*
@@ -564,7 +563,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -636,6 +634,7 @@
 *://ssbiyori.blog.fc2.com/*
 *://ssimas72.blog.jp/*
 *://subculturejunkie.com/*
+*://sugaaanuma.livedoor.blog/*
 *://sukattojapan.com/*
 *://sukina-news.com/*
 *://sumaburayasan.com/*
@@ -731,12 +730,12 @@
 *://world-study.jp/*
 *://worldfn.net/*
 *://worldreport8.com/*
-*://worldsoccerch.com/*
 *://www2.bikechannel.info/*
 *://xn---fate-grandorder-794ovb07b7ht176ef78bjy3dxb0g.com/*
 *://xn--fgo-gh8fn72e.com/*
 *://xn--o9j0bk1l6d1bnv1as45bb2j.com/*
 *://xn--o9j0bk9l4k169rk1cxv4aci7a739c.com/*
+*://xn--zck9awe6ds833acvb.jp/*
 *://xresolutionx.livedoor.blog/*
 *://xs278233.xsrv.jp/*
 *://xxxkikimimixxx.blog.fc2.com/*
