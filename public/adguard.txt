@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-11-20T23:59:41.895Z
+! Last modified: 2026-11-21T23:19:29.345Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -21,6 +21,7 @@
 ||aatyu.livedoor.blog^
 ||abroadch.com^
 ||agemasen.com^
+||aichannell.blog.jp^
 ||airlinehonpo.blog.fc2.com^
 ||akankore.doorblog.jp^
 ||akb48matomemory.com^
@@ -334,7 +335,6 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
-||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -456,7 +456,6 @@
 ||na2ka4.blog.fc2.com^
 ||naekumasakura.blog.jp^
 ||nagooka.net^
-||nanahushi77.livedoor.blog^
 ||nandemo-uketori.com^
 ||nanj-mangabu.com^
 ||nanj-push.blog.jp^
@@ -567,6 +566,7 @@
 ||prizzm.net^
 ||punpunpunta.livedoor.blog^
 ||rabitsokuhou.2chblog.jp^
+||raicomichan.com^
 ||ramen2ch.com^
 ||red4-kaigaimatome.com^
 ||reddit-matome.com^
@@ -644,7 +644,6 @@
 ||suresuta.jp^
 ||suropachi-line.com^
 ||sutekinakijo.com^
-||suzu-pepe.blog.jp^
 ||suzusoku.blog.jp^
 ||switchsoku.com^
 ||syurabahazard.com^
