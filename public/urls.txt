@@ -321,7 +321,7 @@ https://keizai4567.blog.jp/
 http://kekkon-souken.com/
 https://kemochan.com/
 https://keokeoblog.net/
-https://keyakizaka1.blog.jp/
+http://keyakizaka1.blog.jp/
 http://keyakizaka46dx.blog.jp/
 http://keyakizaka46matomemory.net/
 http://keyakizaka46matomerabo.com/
@@ -333,6 +333,7 @@ http://kijonotakuhaibin.com/
 http://kijorabu.com/
 http://kijosoku.com/
 https://kijosokuho.com/
+https://kijoume.blog.jp/
 https://kijyomatome.com/
 http://kijyomita.com/
 http://kijyoryouran.livedoor.blog/
@@ -355,7 +356,6 @@ https://koakinai.livedoor.blog/
 http://kokopyon.net/
 http://kokuani.blog.jp/
 http://kokunanmonomousu.com/
-https://konatakona.blog.jp/
 http://konkatsuchan.doorblog.jp/
 https://konkatu-kekkon.blog.jp/
 https://konnanewsnidekuwashita.com/
@@ -423,6 +423,7 @@ https://minna-shitteta.com/
 https://mirishita.2chblog.jp/
 http://mizuhonokuni2ch.com/
 https://moccosnoon.com/
+https://mochidosukoi.blog.jp/
 http://moe-vip.com/
 https://moeasia.net/
 https://moerunihon.blog.jp/
@@ -468,6 +469,7 @@ https://nansoku.com/
 http://nantuka.blog119.fc2.com/
 https://nanyakoresokuhou.com/
 https://naroumatome.com/
+https://neetyutaka.blog.jp/
 https://negisoku.com/
 https://neko-news.blog.jp/
 https://nekowan.com/
@@ -504,7 +506,6 @@ http://nogiradi.com/
 https://nogizaka46-matome.jp/
 http://nogizaka46link.blog.jp/
 http://nogizaka46matomenoma.blog.jp/
-https://nogizakajyoho46.com/
 https://nokasa.net/
 https://norisoku.com/
 https://nwknews.jp/
@@ -563,6 +564,7 @@ https://precurematome.com/
 https://prizzm.net/
 https://punpunpunta.livedoor.blog/
 https://rabitsokuhou.2chblog.jp/
+https://raicomichan.com/
 http://ramen2ch.com/
 https://red4-kaigaimatome.com/
 https://reddit-matome.com/
@@ -608,7 +610,6 @@ https://shiritimes.net/
 http://shitsumon-aru.net/
 https://shitsumonaru.com/
 https://shouginews.blog.jp/
-https://shoyusui.blog.jp/
 https://shuraba-matome.com/
 https://sinemanomatome.com/
 http://sisitama.blog.jp/
@@ -661,6 +662,7 @@ http://teyvatsokuho.com/
 https://thainokoe.com/
 https://tiugoku2nd.blog.jp/
 https://toku-log.com/
+https://tokunaga-manga.blog.jp/
 https://toppogi-news.com/
 https://toraho.blog.jp/
 https://torasoku.blog.jp/
