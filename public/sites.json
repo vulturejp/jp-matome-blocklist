@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:58:02.250Z",
+  "generatedAt": "2026-11-25T02:31:07.943Z",
   "sites": [
     {
       "url": "https://1000mg.jp/",
@@ -200,6 +200,7 @@
         "2ch-c-sites",
         "2channeler-list",
         "2chmatome-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -1065,7 +1066,6 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -1862,6 +1862,7 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -2986,6 +2987,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -3167,6 +3169,14 @@
         "2ch-c-sites",
         "2channeler-list",
         "moudamepo-list"
+      ]
+    },
+    {
+      "url": "https://konatakona.blog.jp/",
+      "host": "konatakona.blog.jp",
+      "firstSeenAt": "2026-11-25T02:31:07.943Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -3628,7 +3638,8 @@
       "host": "matomeblade.com",
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
-        "2ch-c-sites"
+        "2ch-c-sites",
+        "5chmm-allpost"
       ]
     },
     {
@@ -4163,14 +4174,6 @@
       ]
     },
     {
-      "url": "https://neetyutaka.blog.jp/",
-      "host": "neetyutaka.blog.jp",
-      "firstSeenAt": "2026-11-24T03:58:02.250Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://negisoku.com/",
       "host": "negisoku.com",
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
@@ -4579,7 +4582,6 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
-        "5chmm-allpost",
         "moudamepo-list"
       ]
     },
@@ -5008,17 +5010,10 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
+        "5chmm-allpost",
         "moudamepo-list",
         "newmatoan-posts",
         "nullpoantenna-blogs"
-      ]
-    },
-    {
-      "url": "https://raicomichan.com/",
-      "host": "raicomichan.com",
-      "firstSeenAt": "2026-11-24T03:58:02.250Z",
-      "sources": [
-        "5chmm-allpost"
       ]
     },
     {
@@ -5422,6 +5417,14 @@
         "2channeler-list",
         "moudamepo-list",
         "nullpoantenna-blogs"
+      ]
+    },
+    {
+      "url": "https://shoyusui.blog.jp/",
+      "host": "shoyusui.blog.jp",
+      "firstSeenAt": "2026-11-25T02:31:07.943Z",
+      "sources": [
+        "5chmm-allpost"
       ]
     },
     {
@@ -5874,14 +5877,6 @@
       ]
     },
     {
-      "url": "https://tokunaga-manga.blog.jp/",
-      "host": "tokunaga-manga.blog.jp",
-      "firstSeenAt": "2026-11-24T03:58:02.250Z",
-      "sources": [
-        "5chmm-allpost"
-      ]
-    },
-    {
       "url": "https://toppogi-news.com/",
       "host": "toppogi-news.com",
       "firstSeenAt": "2026-07-12T19:32:55.866Z",
@@ -6197,6 +6192,7 @@
       "firstSeenAt": "2026-06-14T10:12:56.631Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -6208,7 +6204,6 @@
       "sources": [
         "2ch-c-sites",
         "2channeler-list",
-        "5chmm-allpost",
         "moudamepo-list",
         "nullpoantenna-blogs"
       ]
@@ -6219,6 +6214,7 @@
       "firstSeenAt": "2026-06-14T10:07:41.065Z",
       "sources": [
         "2ch-c-sites",
+        "5chmm-allpost",
         "moudamepo-list"
       ]
     },

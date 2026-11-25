@@ -356,6 +356,7 @@
 *://kokopyon.net/*
 *://kokuani.blog.jp/*
 *://kokunanmonomousu.com/*
+*://konatakona.blog.jp/*
 *://konkatsuchan.doorblog.jp/*
 *://konkatu-kekkon.blog.jp/*
 *://konnanewsnidekuwashita.com/*
@@ -469,7 +470,6 @@
 *://nantuka.blog119.fc2.com/*
 *://nanyakoresokuhou.com/*
 *://naroumatome.com/*
-*://neetyutaka.blog.jp/*
 *://negisoku.com/*
 *://neko-news.blog.jp/*
 *://nekowan.com/*
@@ -564,7 +564,6 @@
 *://prizzm.net/*
 *://punpunpunta.livedoor.blog/*
 *://rabitsokuhou.2chblog.jp/*
-*://raicomichan.com/*
 *://ramen2ch.com/*
 *://red4-kaigaimatome.com/*
 *://reddit-matome.com/*
@@ -610,6 +609,7 @@
 *://shitsumon-aru.net/*
 *://shitsumonaru.com/*
 *://shouginews.blog.jp/*
+*://shoyusui.blog.jp/*
 *://shuraba-matome.com/*
 *://sinemanomatome.com/*
 *://sisitama.blog.jp/*
@@ -662,7 +662,6 @@
 *://thainokoe.com/*
 *://tiugoku2nd.blog.jp/*
 *://toku-log.com/*
-*://tokunaga-manga.blog.jp/*
 *://toppogi-news.com/*
 *://toraho.blog.jp/*
 *://torasoku.blog.jp/*
