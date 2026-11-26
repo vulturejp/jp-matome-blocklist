@@ -7,6 +7,7 @@
 *://2chmatome.bloggeek.jp/*
 *://2chmatometaaaa.jp/*
 *://2chmeshi.net/*
+*://2chmg.jp/*
 *://2chtaiga.com/*
 *://2logch.com/*
 *://2monkeys.jp/*
@@ -206,7 +207,6 @@
 *://giants-news-sokuhou.com/*
 *://giants-news.com/*
 *://ginjimasu.blog.jp/*
-*://ginnga.blog.jp/*
 *://girlsreport.net/*
 *://girlsvip-matome.com/*
 *://global-matome.com/*
@@ -333,7 +333,6 @@
 *://kijorabu.com/*
 *://kijosoku.com/*
 *://kijosokuho.com/*
-*://kijoume.blog.jp/*
 *://kijyomatome.com/*
 *://kijyomita.com/*
 *://kijyoryouran.livedoor.blog/*
@@ -454,6 +453,7 @@
 *://mykeibamemory.blog.fc2.com/*
 *://mylife.2chblog.jp/*
 *://na2ka4.blog.fc2.com/*
+*://naekumasakura.blog.jp/*
 *://nagooka.net/*
 *://nandemo-uketori.com/*
 *://nanj-mangabu.com/*

@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist
-! Last modified: 2026-11-25T02:31:07.943Z
+! Last modified: 2026-11-26T01:46:56.459Z
 ! Expires: 7 days
 ! Homepage: https://github.com/vulturejp/jp-matome-blocklist
 ||1000mg.jp^
@@ -11,6 +11,7 @@
 ||2chmatome.bloggeek.jp^
 ||2chmatometaaaa.jp^
 ||2chmeshi.net^
+||2chmg.jp^
 ||2chtaiga.com^
 ||2logch.com^
 ||2monkeys.jp^
@@ -210,7 +211,6 @@
 ||giants-news-sokuhou.com^
 ||giants-news.com^
 ||ginjimasu.blog.jp^
-||ginnga.blog.jp^
 ||girlsreport.net^
 ||girlsvip-matome.com^
 ||global-matome.com^
@@ -337,7 +337,6 @@
 ||kijorabu.com^
 ||kijosoku.com^
 ||kijosokuho.com^
-||kijoume.blog.jp^
 ||kijyomatome.com^
 ||kijyomita.com^
 ||kijyoryouran.livedoor.blog^
@@ -458,6 +457,7 @@
 ||mykeibamemory.blog.fc2.com^
 ||mylife.2chblog.jp^
 ||na2ka4.blog.fc2.com^
+||naekumasakura.blog.jp^
 ||nagooka.net^
 ||nandemo-uketori.com^
 ||nanj-mangabu.com^
