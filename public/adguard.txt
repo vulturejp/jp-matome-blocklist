@@ -1,5 +1,5 @@
 ! Title: Japanese Matome Blog Blocklist for AdGuard
-! Last modified: 2026-11-27T01:44:42.641Z
+! Last modified: 2026-11-28T01:27:58.664Z
 ! Expires: 7 days
 ||1000mg.jp^
 ||2-carat.net^
@@ -10,7 +10,6 @@
 ||2chmatome.bloggeek.jp^
 ||2chmatometaaaa.jp^
 ||2chmeshi.net^
-||2chmg.jp^
 ||2chtaiga.com^
 ||2logch.com^
 ||2monkeys.jp^
@@ -210,6 +209,7 @@
 ||giants-news-sokuhou.com^
 ||giants-news.com^
 ||ginjimasu.blog.jp^
+||ginnga.blog.jp^
 ||girlsreport.net^
 ||girlsvip-matome.com^
 ||global-matome.com^
@@ -458,6 +458,7 @@
 ||na2ka4.blog.fc2.com^
 ||naekumasakura.blog.jp^
 ||nagooka.net^
+||nanahushi77.livedoor.blog^
 ||nandemo-uketori.com^
 ||nanj-mangabu.com^
 ||nanj-push.blog.jp^
@@ -742,7 +743,6 @@
 ||xs278233.xsrv.jp^
 ||xxxkikimimixxx.blog.fc2.com^
 ||yabaibaiku.com^
-||yagov30.com^
 ||yakiunoyakata.blog.jp^
 ||yaku-plus.com^
 ||yakyu-ban.blog.jp^
